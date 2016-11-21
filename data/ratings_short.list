@@ -1,0 +1,1000 @@
+CRC: 0xBE2A7772  File: ratings.list  Date: Fri Nov  4 00:00:00 2016
+
+From: vote@imdb.com (Movie Ratings Report)
+Subject: Movie Ratings Report
+
+For information on the list format, and on submitting your ratings,
+see the end of this posting.
+
+Details on obtaining this posting via FTP are also given below.
+
+Comments, suggestions etc. via e-mail to <help@imdb.com>
+
+TOP 250 MOVIES (25000+ VOTES)
+
+The formula used to calculate the top 250 movies is:
+
+  weighted rank = (v/(v+k))*X + (k/(v+k))*C
+
+  where:
+
+    X = average for the movie (mean)
+    v = number of votes for the movie
+    k = minimum votes required to be listed in the top 250 (currently 25000)
+    C = the mean vote across the whole report (currently 6.90)
+
+note: for this top 250, only votes from regular voters are considered.
+
+New  Distribution  Votes  Rank  Title
+      0000000125  1723280   9.2  The Shawshank Redemption (1994)
+      0000000125  1177714   9.2  The Godfather (1972)
+      0000000124  807348   9.0  The Godfather: Part II (1974)
+      0000000124  1708992   8.9  The Dark Knight (2008)
+      0000000133  459379   8.9  12 Angry Men (1957)
+      0000000133  882582   8.9  Schindler's List (1993)
+      0000000123  1350013   8.9  Pulp Fiction (1994)
+      0000000124  1238162   8.9  The Lord of the Rings: The Return of the King (2003)
+      0000000123  513019   8.9  Il buono, il brutto, il cattivo (1966)
+      0000000133  1375619   8.8  Fight Club (1999)
+      0000000123  1260698   8.8  The Lord of the Rings: The Fellowship of the Ring (2001)
+      0000000223  854934   8.7  Star Wars: Episode V - The Empire Strikes Back (1980)
+      0000000233  1280437   8.7  Forrest Gump (1994)
+      0000000133  1499681   8.7  Inception (2010)
+      0000000223  1121280   8.7  The Lord of the Rings: The Two Towers (2002)
+      0000000232  692369   8.7  One Flew Over the Cuckoo's Nest (1975)
+      0000000232  743238   8.7  Goodfellas (1990)
+      0000000233  1241245   8.7  The Matrix (1999)
+      0000000123  233608   8.6  Shichinin no samurai (1954)
+      0000000223  927906   8.6  Star Wars (1977)
+      0000000232  542866   8.6  Cidade de Deus (2002)
+      0000001232  1046053   8.6  Se7en (1995)
+      0000001232  907352   8.6  The Silence of the Lambs (1991)
+      0000001123  280928   8.6  It's a Wonderful Life (1946)
+      0000000232  755357   8.6  The Usual Suspects (1995)
+      0000000233  430761   8.6  La vita è bella (1997)
+      0000001232  741480   8.5  Léon (1994)
+      0000000223  429399   8.5  Sen to Chihiro no kamikakushi (2001)
+      0000001232  900171   8.5  Saving Private Ryan (1998)
+      0000001223  220490   8.5  C'era una volta il West (1968)
+      0000001232  797422   8.5  American History X (1998)
+      0000000123  960935   8.5  Interstellar (2014)
+      0000001223  394242   8.5  Casablanca (1942)
+      0000001222  431740   8.5  Psycho (1960)
+      0000001223  111073   8.5  City Lights (1931)
+      0000001222  672883   8.5  Raiders of the Lost Ark (1981)
+      0000001232  803074   8.5  The Green Mile (1999)
+      0000000232  518577   8.5  Intouchables (2011)
+      0000001222  146934   8.5  Modern Times (1936)
+      0000001222  322694   8.5  Rear Window (1954)
+      0000001222  758707   8.5  Terminator 2: Judgment Day (1991)
+      0000001232  891309   8.5  The Departed (2006)
+      0000001232  510731   8.5  The Pianist (2002)
+      0000001222  748539   8.5  Back to the Future (1985)
+      0000001232  420041   8.5  Whiplash (2014)
+      0000001222  1002214   8.5  Gladiator (2000)
+      0000001232  862420   8.5  Memento (2000)
+      0000001222  458451   8.5  Apocalypse Now (1979)
+      0000001232  863258   8.5  The Prestige (2006)
+      0000001223  660049   8.5  The Lion King (1994)
+      0000001222  575566   8.4  Alien (1979)
+      0000001223  348736   8.4  Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+      0000001222  142289   8.4  Sunset Blvd. (1950)
+      0000001222  141001   8.4  The Great Dictator (1940)
+      0000001232  264824   8.4  Das Leben der Anderen (2006)
+      0000001222  156236   8.4  Nuovo Cinema Paradiso (1988)
+      0000001222  123585   8.4  Paths of Glory (1957)
+      0000001232  978431   8.4  Django Unchained (2012)
+      0000001222  623977   8.4  The Shining (1980)
+      0000001223  142817   8.4  Hotaru no haka (1988)
+      0000001222  734878   8.4  WALL·E (2008)
+      0000001223  1166982   8.4  The Dark Knight Rises (2012)
+      0000001222  837628   8.4  American Beauty (1999)
+      0000001222  227231   8.4  Mononoke-hime (1997)
+      0000001222  496991   8.4  Aliens (1986)
+      0000001222  364534   8.4  Oldeuboi (2003)
+      0000001222  225660   8.4  Once Upon a Time in America (1984)
+      0000001223  303237   8.3  Citizen Kane (1941)
+      0000001222  171113   8.3  Das Boot (1981)
+      0000001222   65112   8.3  Witness for the Prosecution (1957)
+      0000001222  224062   8.3  North by Northwest (1959)
+      0000001222  254575   8.3  Vertigo (1958)
+      0000001222  696886   8.3  Star Wars: Episode VI - Return of the Jedi (1983)
+      0000001222  101011   8.3  M (1931)
+      0000001221  678099   8.3  Reservoir Dogs (1992)
+      0000001222  750378   8.3  Braveheart (1995)
+      0000001222  544729   8.3  Le fabuleux destin d'Amélie Poulain (2001)
+      0000001222  584286   8.3  Requiem for a Dream (2000)
+      0000001222  569842   8.3  A Clockwork Orange (1971)
+      0000001222  518126   8.3  Taxi Driver (1976)
+      0000001222   99831   8.3  Double Indemnity (1944)
+      0000001222  196528   8.3  Lawrence of Arabia (1962)
+      0000001222  219606   8.3  To Kill a Mockingbird (1962)
+      0000001222  556525   8.3  Toy Story 3 (2010)
+      0000001222  681012   8.3  Eternal Sunshine of the Spotless Mind (2004)
+      0000001222  276072   8.3  Amadeus (1984)
+      0000001321  495523   8.3  Full Metal Jacket (1987)
+      0000001322  179040   8.3  The Sting (1973)
+      0000001123  436475   8.3  2001: A Space Odyssey (1968)
+      0000001222   96914   8.3  Ladri di biciclette (1948)
+      0000001322  637686   8.3  Toy Story (1995)
+      0000001222  611706   8.3  Snatch (2000)
+      0000001222  153104   8.3  Singin' in the Rain (1952)
+      0000001222  905555   8.3  Inglourious Basterds (2009)
+      0000001222   69703   8.3  The Kid (1921)
+      0000001222  388815   8.3  Monty Python and the Holy Grail (1975)
+      0000001321  421424   8.3  L.A. Confidential (1997)
+      0000001321  161139   8.3  Per qualche dollaro in più (1965)
+      0000001222  104941   8.3  Rashômon (1950)
+      0000000123  216126   8.3  3 Idiots (2009)
+      0000001222  111727   8.3  The Apartment (1960)
+      0000001222  548175   8.3  Scarface (1983)
+      0000001321  525247   8.2  Indiana Jones and the Last Crusade (1989)
+      0000001223  155558   8.2  Jodaeiye Nader az Simin (2011)
+      0000001222  114180   8.2  Metropolis (1927)
+      0000001331  176117   8.2  Jagten (2012)
+      0000001321  618670   8.2  Good Will Hunting (1997)
+      0000001222   84492   8.2  All About Eve (1950)
+      0000001222   75543   8.2  Yôjinbô (1961)
+      0000001321  1000756   8.2  Batman Begins (2005)
+      0000001222   80795   8.2  The Treasure of the Sierra Madre (1948)
+      0000001222  178398   8.2  Some Like It Hot (1959)
+      0000001222  681475   8.2  Up (2009)
+      0000001321  282844   8.2  Unforgiven (1992)
+      0000001222  115928   8.2  The Third Man (1949)
+      0000001321  252881   8.2  Der Untergang (2004)
+      0000001222  239314   8.2  Raging Bull (1980)
+      0000001321  603030   8.2  Die Hard (1988)
+      0000001223   29969   8.2  Bacheha-Ye aseman (1997)
+      0000001321  168889   8.2  The Great Escape (1963)
+      0000001222  438833   8.2  Heat (1995)
+      0000001222  220508   8.2  Chinatown (1974)
+      0000001222  367327   8.2  Inside Out (2015/I)
+      0000001222  476591   8.2  El laberinto del fauno (2006)
+      0000001222  102837   8.2  On the Waterfront (1954)
+      0000001321  181496   8.2  Room (2015/I)
+      0000001222  177704   8.2  Tonari no Totoro (1988)
+      0000001222   43325   8.2  Ikiru (1952)
+      0000001222   79319   8.2  Ran (1985)
+      0000001222   69487   8.2  The Gold Rush (1925)
+      0000001321  152523   8.2  The Bridge on the River Kwai (1957)
+      0000001222   78740   8.2  Mr. Smith Goes to Washington (1939)
+      0000001321  135613   8.2  El secreto de sus ojos (2009)
+      0000001222  469473   8.2  Blade Runner (1982)
+      0000001222  114378   8.2  Det sjunde inseglet (1957)
+      0000001321  422017   8.2  Lock, Stock and Two Smoking Barrels (1998)
+      0000001222  219752   8.2  Hauru no ugoku shiro (2004)
+      0000001321  340332   8.2  Casino (1995)
+      0000001222   45716   8.2  Judgment at Nuremberg (1961)
+      0000001113   26466   8.2  La passion de Jeanne d'Arc (1928)
+      0000001222   64477   8.2  Smultronstället (1957)
+      0000001222   54784   8.2  The General (1926)
+      0000001321  165003   8.2  The Elephant Man (1980)
+      0000001321  624867   8.2  A Beautiful Mind (2001)
+      0000001213   30234   8.2  Sunrise: A Song of Two Humans (1927)
+      0000001222  338998   8.2  Warrior (2011)
+      0000001221  804876   8.1  The Wolf of Wall Street (2013)
+      0000001222  806750   8.1  V for Vendetta (2005)
+      0000001221   83496   8.1  Incendies (2010)
+      0000001321  571003   8.1  Gran Torino (2008)
+      0000001222  548536   8.1  The Big Lebowski (1998)
+      0000001223   27876   8.1  Tôkyô monogatari (1953)
+      0000001221  236848   8.1  The Deer Hunter (1978)
+      0000001321  109033   8.1  Dial M for Murder (1954)
+      0000001321  478396   8.1  Trainspotting (1996)
+      0000001212  219152   8.1  Gone with the Wind (1939)
+      0000001321  463308   8.1  Fargo (1996)
+      0000001222   89144   8.1  Rebecca (1940)
+      0000001321  709143   8.1  Finding Nemo (2003)
+      0000001321  121919   8.1  Cool Hand Luke (1967)
+      0000001321  716993   8.1  The Sixth Sense (1999)
+      0000001321  496234   8.1  How to Train Your Dragon (2010)
+      0000001222  594164   8.1  Star Wars: Episode VII - The Force Awakens (2015)
+      0000001222  264529   8.1  The Thing (1982)
+      0000001221  626193   8.1  No Country for Old Men (2007)
+      0000001222  435809   8.1  Into the Wild (2007)
+      0000001221  749981   8.1  Kill Bill: Vol. 1 (2003)
+      0000001221  122195   8.1  Mary and Max (2009)
+      0000001321  588650   8.1  Gone Girl (2014)
+      0000000223   26979   8.1  Idi i smotri (1985)
+      0000001222  381383   8.1  There Will Be Blood (2007)
+      0000001222   66354   8.1  It Happened One Night (1934)
+      0000001222  277425   8.1  Life of Brian (1979)
+      0000001321  320550   8.1  Rush (2013/I)
+      0000000115   31997   8.1  The Message (1976)
+      0000001321  269150   8.1  Hotel Rwanda (2004)
+      0000001321  296669   8.1  Platoon (1986)
+      0000001222   26872   8.1  Le notti di Cabiria (1957)
+      0000001222  105711   8.1  Network (1976)
+      0000001222   36173   8.1  Le salaire de la peur (1953)
+      0000001321  805196   8.1  Shutter Island (2010)
+      0000001321  219444   8.1  Spotlight (2015/I)
+      0000001222  115435   8.1  The Maltese Falcon (1941)
+      0000001321  155114   8.1  Butch Cassidy and the Sundance Kid (1969)
+      0000001321  277711   8.1  Stand by Me (1986)
+      0000001222  577454   8.1  Mad Max: Fury Road (2015)
+      0000001321  112426   8.1  In the Name of the Father (1993)
+      0000001222   71749   8.1  Les quatre cents coups (1959)
+      0000001321   95895   8.1  Relatos salvajes (2014)
+      0000001321  452005   8.1  12 Years a Slave (2013)
+      0000001222   63491   8.1  Persona (1966)
+      0000001222  164708   8.1  Ben-Hur (1959)
+      0000001321  491790   8.1  The Grand Budapest Hotel (2014)
+      0000001321  176491   8.1  Amores perros (2000)
+      0000001321  491177   8.1  Million Dollar Baby (2004)
+      0000001222  299466   8.1  The Princess Bride (1987)
+      0000001321  627798   8.1  Jurassic Park (1993)
+      0000001222  161531   8.1  Hachi: A Dog's Tale (2009)
+      0000001222   98783   8.1  Kaze no tani no Naushika (1984)
+      0000001222   74309   8.1  Touch of Evil (1958)
+      0000001222   64455   8.0  The Grapes of Wrath (1940)
+      0000001123   70191   8.0  Stalker (1979)
+      0000001321   69732   8.0  Salinui chueok (2003)
+      0000001321  215467   8.0  Zootopia (2016)
+      0000001222  197092   8.0  Annie Hall (1977)
+      0000001321  682916   8.0  The Truman Show (1998)
+      0000001222  188025   8.0  Before Sunrise (1995)
+      0000001321  174903   8.0  Gandhi (1982)
+      0000001321  502216   8.0  The Bourne Ultimatum (2007)
+      0000001321   43073   8.0  Les diaboliques (1955)
+      0000001321  383504   8.0  Rocky (1976)
+      0000001222  591448   8.0  Donnie Darko (2001)
+      0000001222  555050   8.0  Harry Potter and the Deathly Hallows: Part 2 (2011)
+      0000001213   80166   8.0  8½ (1963)
+      0000001321  599213   8.0  Monsters, Inc. (2001)
+      0000001212  296749   8.0  The Wizard of Oz (1939)
+      0000001321  612044   8.0  The Terminator (1984)
+      0000001321  446084   8.0  Groundhog Day (1993)
+      0000001321  470543   8.0  Twelve Monkeys (1995)
+      0000001321  396312   8.0  Prisoners (2013)
+      0000001211  420895   8.0  Jaws (1975)
+      0000001222   41066   8.0  The Best Years of Our Lives (1946)
+      0000001321   93428   8.0  Mou gaan dou (2002)
+      0000001321  105914   8.0  La haine (1995)
+      0000001222  103870   8.0  Barry Lyndon (1975)
+      0000001321  542865   8.0  Catch Me If You Can (2002)
+      0000001321   98429   8.0  Strangers on a Train (1951)
+      0000001221  665419   8.0  Sin City (2005)
+      0000001222   38343   8.0  La battaglia di Algeri (1966)
+      0000001321  185879   8.0  Dog Day Afternoon (1975)
+      0000001222   27281   8.0  Kind Hearts and Coronets (1949)
+      0000000123   48357   8.0  Gangs of Wasseypur (2012)
+      0000001321  440833   8.0  The Revenant (2015)
+      0000001321  824002   8.0  Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+      0000001321  325023   8.0  The Help (2011)
+      0000001222   27693   8.0  Song of the Sea (2014)
+      0000001321  488622   8.0  The Imitation Game (2014)
+      0000001321  173286   8.0  Yip Man (2008)
+      0000001222  531560   8.0  Deadpool (2016)
+      0000001321  505852   8.0  The Martian (2015)
+      0000001321  102166   8.0  Tenkû no shiro Rapyuta (1986)
+      0000001321  103378   8.0  Roman Holiday (1953)
+      0000001321  151638   8.0  Per un pugno di dollari (1964)
+      0000001222  704093   8.0  Guardians of the Galaxy (2014)
+      0000001212   44298   8.0  Fanny och Alexander (1982)
+      0000001321  514217   8.0  The King's Speech (2010)
+      0000001222  1014454   8.0  The Avengers (2012)
+      0000001222   51396   8.0  Paris, Texas (1984)
+      0000001222   74491   8.0  Lagaan: Once Upon a Time in India (2001)
+      0000001212  315149   8.0  Beauty and the Beast (1991)
+
+BOTTOM 10 MOVIES (1500+ VOTES)
+
+New  Distribution  Votes  Rank  Title
+      6000000002    8199   1.9  Álom.net (2009)
+      5000000003    7888   1.8  Titanic - La leggenda continua (2000)
+      6000000001   14599   1.8  Birdemic: Shock and Terror (2010)
+      6000000001   13299   1.8  Dünyayi Kurtaran Adam'in Oglu (2006)
+      6000000002   15441   1.7  Pledge This! (2006)
+      6000000001   30785   1.7  Manos: The Hands of Fate (1966)
+      6000000002   12950   1.6  Daniel der Zauberer (2004)
+      6000000002   25609   1.6  Superbabies: Baby Geniuses 2 (2004)
+      7000000001   11690   1.5  Saving Christmas (2014)
+      8000000001   19637   1.5  Kod Adi K.O.Z. (2015)
+
+MOVIE RATINGS REPORT
+
+New  Distribution  Votes  Rank  Title
+      31.2.1..2.       9   4.1  "!Next?" (1994)
+      1000000102      62   6.3  "#1 Single" (2006)
+      2...0001.3      13   6.7  "#15SecondScare" (2015)
+      0....0...8      16   9.2  "#30Nods" (2016)
+      0.0..11103      14   7.5  "#7DaysLater" (2013)
+      .....2...8       5   9.2  "#ATown" (2014)
+      .11..11..3       6   6.3  "#Adulting" (2016/II)
+      4....2...4       5   5.6  "#Besties" (2014)
+      1..0.1.003      11   6.8  "#Bikerlive" (2014)
+      2000.0.004      53   6.5  "#BlackLove" (2015)
+      1.01.03.01      16   5.7  "#ByMySide" (2012)
+      1..01011.3      18   6.7  "#Cybriety" (2015)
+      0..0.11002      11   7.1  "#Hashtag: The Series" (2013)
+      .....1.5.3       6   8.3  "#HoodDocumentary" (2016)
+      21...1...5       9   6.7  "#LawstinWoods" (2013)
+      ....1.53..       6   7.0  "#LoveBytes" (2015)
+      2..111...2       7   5.3  "#TheWestbrooks" (2015)
+      0.0.022102      25   7.0  "#killerpost" (2016)
+      010.002111      24   6.7  "#lovemilla" (2013)
+      1.1..2...5       8   7.0  "#nitTWITS" (2011)
+      0000011101    4505   6.3  "$#*! My Dad Says" (2010)
+      00.0112201      72   6.8  "$#*! My Dad Says" (2010) {Code Ed (#1.4)}
+      0000012101      55   6.9  "$#*! My Dad Says" (2010) {Corn Star (#1.14)}
+      00.0012111      53   7.0  "$#*! My Dad Says" (2010) {Dog Ed Pursuit (#1.7)}
+      0.00022101      64   6.9  "$#*! My Dad Says" (2010) {Easy, Writer (#1.6)}
+      0...013101      51   7.1  "$#*! My Dad Says" (2010) {Ed Goes to Court (#1.15)}
+      0.00012101      56   7.1  "$#*! My Dad Says" (2010) {Family Dinner for Schmucks (#1.11)}
+      00.0022101      53   6.8  "$#*! My Dad Says" (2010) {Goodson Goes Deep (#1.12)}
+      0..0012111      45   7.1  "$#*! My Dad Says" (2010) {Lock and Load (#1.17)}
+      0.00022101      55   7.0  "$#*! My Dad Says" (2010) {Make a Wish (#1.9)}
+      0.0.002201      62   7.1  "$#*! My Dad Says" (2010) {Not Without My Jacket (#1.5)}
+      0000121001     133   6.0  "$#*! My Dad Says" (2010) {Pilot (#1.1)}
+      0.00013101      53   7.0  "$#*! My Dad Says" (2010) {The Better Father (#1.13)}
+      0000013001      55   6.8  "$#*! My Dad Says" (2010) {The Manly Thing to Do (#1.8)}
+      0.00012201      63   7.1  "$#*! My Dad Says" (2010) {The Truth About Dads & Moms (#1.3)}
+      0.00012201      51   6.8  "$#*! My Dad Says" (2010) {Well Suitored (#1.16)}
+      0...001212      59   7.8  "$#*! My Dad Says" (2010) {Who's Your Daddy? (#1.18)}
+      0.00112101      87   6.5  "$#*! My Dad Says" (2010) {Wi-Fight (#1.2)}
+      0000021111      64   6.8  "$#*! My Dad Says" (2010) {You Can't Handle the Truce (#1.10)}
+      1..0111002      19   6.4  "$1,000,000 Chance of a Lifetime" (1986)
+      0...221.02      13   6.7  "$100 Taxi Ride" (2001)
+      ..00022201      19   7.1  "$100,000 Name That Tune" (1984)
+      1..1000011      16   6.1  "$2 Bill" (2002)
+      ........18       6   9.8  "$2 Bill" (2002) {The Strokes (#1.1)}
+      .0.0.41002      15   6.9  "$24 in 24" (2012)
+      30.100...3      19   5.3  "$25 Million Dollar Hoax" (2004)
+      2000111002     170   6.2  "$40 a Day" (2002)
+      2000000003      59   5.9  "$5 Cover" (2009)
+      ..1001.013      16   7.2  "$5 Cover: Seattle" (2009)
+      3....1...5       6   6.3  "$5,000 Video" (2013)
+      .00.100121      18   7.3  "$9.99" (2003)
+      .0111210.1      20   5.9  "$weepstake$" (1979)
+      0000001223   19248   8.3  "'Allo 'Allo!" (1982)
+      0.00002211      55   7.7  "'Allo 'Allo!" (1982) {A Bun in the Oven (#8.0)}
+      0.00012111      54   7.7  "'Allo 'Allo!" (1982) {A Fishy Sendoff (#9.5)}
+      .000012111      56   7.5  "'Allo 'Allo!" (1982) {A Fistful of Francs (#8.6)}
+      .000002312      66   8.0  "'Allo 'Allo!" (1982) {A Marriage of Inconvenience (#5.6)}
+      ..0.112211      57   7.5  "'Allo 'Allo!" (1982) {A Quiet Honeymoon (#7.1)}
+      0000000124      98   8.5  "'Allo 'Allo!" (1982) {A Winkle in Time (#9.6)}
+      .00.002311      51   7.7  "'Allo 'Allo!" (1982) {A Woman Never Lies (#8.2)}
+      ..0.002212      62   8.1  "'Allo 'Allo!" (1982) {All Aboard (#5.21)}
+      ..0.002211      55   7.8  "'Allo 'Allo!" (1982) {An Almighty Bang (#7.2)}
+      .00.002211      56   7.7  "'Allo 'Allo!" (1982) {Arousing Suspicions (#8.1)}
+      .00.002111      54   7.4  "'Allo 'Allo!" (1982) {Awful Wedded Wife (#8.4)}
+      0000001212      85   7.9  "'Allo 'Allo!" (1982) {Camp Dance (#4.2)}
+      0.0.002211      62   7.8  "'Allo 'Allo!" (1982) {Christmas Puddings (#5.19)}
+      ..0.002212      59   7.9  "'Allo 'Allo!" (1982) {Communists in the Cupboard (#5.14)}
+      ..0.002311      58   7.7  "'Allo 'Allo!" (1982) {Crabtree's Podgeon Pist (#6.7)}
+      0.00011222      70   7.9  "'Allo 'Allo!" (1982) {Criminal Developments (#5.3)}
+      0.0.001222      78   8.0  "'Allo 'Allo!" (1982) {Desperate Doings in the Dungeon (#5.1)}
+      ..0.001212      64   7.9  "'Allo 'Allo!" (1982) {Desperate Doings in the Graveyard (#6.1)}
+      ..0.002222      63   8.3  "'Allo 'Allo!" (1982) {Enigma (#5.23)}
+      0.00002212      68   8.1  "'Allo 'Allo!" (1982) {Enigma's End (#5.26)}
+      0.00002211      67   7.7  "'Allo 'Allo!" (1982) {Enter Denise (#5.5)}
+      ..00002122      60   7.9  "'Allo 'Allo!" (1982) {Feathers (#5.17)}
+      0.00002211      57   7.6  "'Allo 'Allo!" (1982) {Fighting with Windmills (#9.1)}
+      .000003111      53   7.6  "'Allo 'Allo!" (1982) {Firing Squashed (#8.5)}
+      ..0.012121      56   7.9  "'Allo 'Allo!" (1982) {Fleeing Monks (#7.3)}
+      0.0.011222      88   8.0  "'Allo 'Allo!" (1982) {Flight of Fancy (#3.4)}
+      .000002112      61   8.0  "'Allo 'Allo!" (1982) {Forged Francs & Fishsellers (#5.15)}
+      0.00011212      86   8.0  "'Allo 'Allo!" (1982) {Good Staff Are Hard to Find (#4.3)}
+      0.0.001322      84   8.1  "'Allo 'Allo!" (1982) {Gruber Does Some Mincing (#3.2)}
+      0.0.001222      97   8.1  "'Allo 'Allo!" (1982) {Herr Flick's Revenge (#2.6)}
+      .00.002212      54   7.9  "'Allo 'Allo!" (1982) {Hitler's Last Heil (#8.3)}
+      ..0.002212      63   8.0  "'Allo 'Allo!" (1982) {Leclerc Against the Wall (#5.18)}
+      0.00002111      55   7.5  "'Allo 'Allo!" (1982) {Leg It to Spain! (#7.7)}
+      ..0.001312      68   8.2  "'Allo 'Allo!" (1982) {Michelle's Secret Love (#5.10)}
+      ..00002212      61   8.0  "'Allo 'Allo!" (1982) {Mines Away! (#5.20)}
+      0.00001221      55   7.7  "'Allo 'Allo!" (1982) {Missing and Presumed Dead (#9.2)}
+      ..0.002212      65   7.9  "'Allo 'Allo!" (1982) {No Hiding Place (#5.7)}
+      ..0.002212      63   8.0  "'Allo 'Allo!" (1982) {Parade of Prams (#5.12)}
+      0.0.002212     131   8.1  "'Allo 'Allo!" (1982) {Pigeon Post (#1.2)}
+      0.0.002222      92   8.3  "'Allo 'Allo!" (1982) {Pretty Maids All in a Row (#3.5)}
+      ..00002211      53   7.7  "'Allo 'Allo!" (1982) {Prior Engagements (#7.8)}
+      0000001212      87   7.7  "'Allo 'Allo!" (1982) {Prisoners of War (#4.1)}
+      0.00001212     108   8.2  "'Allo 'Allo!" (1982) {Reds Nick Colonel (#1.6)}
+      ..00002212      59   7.9  "'Allo 'Allo!" (1982) {Renewing the Vows (#5.24)}
+      0.00012211      53   7.6  "'Allo 'Allo!" (1982) {René Artois Is Still Dead (#9.3)}
+      .000002222      55   7.9  "'Allo 'Allo!" (1982) {René of the Gypsies (#7.10)}
+      ..00002212      65   8.0  "'Allo 'Allo!" (1982) {Return of the Paintings (#5.4)}
+      ..0.002211      60   7.9  "'Allo 'Allo!" (1982) {Rising to the Occasion (#6.8)}
+      000.002221     125   8.1  "'Allo 'Allo!" (1982) {Savile Row to the Rescue (#1.3)}
+      0.00002212     109   8.1  "'Allo 'Allo!" (1982) {Six Big Boobies (#2.1)}
+      ..00002122      52   7.9  "'Allo 'Allo!" (1982) {Soup and Sausage (#7.9)}
+      .00.002212      53   7.9  "'Allo 'Allo!" (1982) {Swan Song (#8.7)}
+      0000001212     101   8.2  "'Allo 'Allo!" (1982) {Swiftly and with Style (#2.4)}
+      ..0.002211      54   7.8  "'Allo 'Allo!" (1982) {The Airmen De-Nicked (#6.5)}
+      0.0.002112      63   7.9  "'Allo 'Allo!" (1982) {The Bank Job (#5.13)}
+      ..00002122      59   7.9  "'Allo 'Allo!" (1982) {The Big Flush (#5.25)}
+      0.0.001223     188   8.6  "'Allo 'Allo!" (1982) {The British Are Coming (#1.0)}
+      0.0.002122      67   8.0  "'Allo 'Allo!" (1982) {The British Invasion (#5.11)}
+      0.00002212      74   7.9  "'Allo 'Allo!" (1982) {The Camera in the Potato (#5.2)}
+      ..00002211      58   7.8  "'Allo 'Allo!" (1982) {The Crooked Fences (#6.6)}
+      0.00001222     110   8.2  "'Allo 'Allo!" (1982) {The Dance of the Hitler Youth (#1.7)}
+      0.00001222      98   8.0  "'Allo 'Allo!" (1982) {The Duel (#2.5)}
+      000.001212     125   8.3  "'Allo 'Allo!" (1982) {The Execution (#1.4)}
+      ..00003112      60   8.0  "'Allo 'Allo!" (1982) {The Exploding Bedpan (#5.16)}
+      0.00001312     146   8.1  "'Allo 'Allo!" (1982) {The Fallen Madonna (#1.1)}
+      0.00012212      55   7.6  "'Allo 'Allo!" (1982) {The Fishmonger Float (#9.4)}
+      0000001212      88   8.0  "'Allo 'Allo!" (1982) {The Flying Nun (#4.4)}
+      0.00001221     116   8.2  "'Allo 'Allo!" (1982) {The Funeral (#1.5)}
+      0000000223     111   8.7  "'Allo 'Allo!" (1982) {The Gateau from the Chateau (#2.7)}
+      0.0.001122      67   8.3  "'Allo 'Allo!" (1982) {The Generals' Conference (#5.9)}
+      ..0.0.2212      61   8.0  "'Allo 'Allo!" (1982) {The Geneva Express (#5.22)}
+      .000012111      58   7.6  "'Allo 'Allo!" (1982) {The Gestapo Ruins a Picnic (#7.5)}
+      0000002211      61   7.7  "'Allo 'Allo!" (1982) {The Gestapo for the High Jump (#6.2)}
+      0000001223      98   8.3  "'Allo 'Allo!" (1982) {The Great Un-Escape (#3.6)}
+      000.002321      80   7.9  "'Allo 'Allo!" (1982) {The Jet Propelled Mother-In-Law (#4.6)}
+      ..00001212      64   8.0  "'Allo 'Allo!" (1982) {The Long-Distance Duck (#5.8)}
+      ..0.003211      59   7.8  "'Allo 'Allo!" (1982) {The Nicked Airmen (#6.4)}
+      0.00001221      93   8.1  "'Allo 'Allo!" (1982) {The Nicked Knockwurst (#3.1)}
+      ..00003211      59   7.6  "'Allo 'Allo!" (1982) {The Nouvion Oars (#6.3)}
+      0000002212     106   8.3  "'Allo 'Allo!" (1982) {The Poloceman Cometh (#2.3)}
+      0.00001222      84   8.0  "'Allo 'Allo!" (1982) {The Sausage in the Trousers (#4.5)}
+      0.0.001123      96   8.6  "'Allo 'Allo!" (1982) {The Sausage in the Wardrobe (#3.3)}
+      ..0.012211      52   7.9  "'Allo 'Allo!" (1982) {The Spirit of Nouvion (#7.6)}
+      0.0.002311     103   8.0  "'Allo 'Allo!" (1982) {The Wooing of Widow Artois (#2.2)}
+      0.00003211      60   7.8  "'Allo 'Allo!" (1982) {Up the Crick Without a Piddle (#7.4)}
+      6....1...1       6   3.3  "'Conversations with My Wife'" (2010)
+      2000001002     171   4.4  "'Da Kink in My Hair" (2007)
+      2....0..05      12   7.3  "'N Sync TV" (1998)
+      1000000113     111   6.7  "'Orrible" (2001)
+      0.0.001223     165   8.3  "'The Making Of...'" (2014)
+      0000011212     249   7.2  "'Til Death Do Us Part" (2006)
+      ..2..34...       9   5.8  "'Til Death Do Us Part" (2006) {A Christmas Murder (#1.13)}
+      0.1..211.1      12   6.2  "'Til Death Do Us Part" (2006) {Car Keys Murder (#1.4)}
+      ..1..33.01      16   6.7  "'Til Death Do Us Part" (2006) {Funeral Parlor Murder (#1.1)}
+      ..2.22.2..       8   5.5  "'Til Death Do Us Part" (2006) {Murder Mystery Weekend (#1.10)}
+      23...1.1.1       8   4.0  "'Til Death Do Us Part" (2006) {Pilot (#1.0)}
+      0.1..3300.      13   5.8  "'Til Death Do Us Part" (2006) {Storage Unit Murder (#1.2)}
+      0.0..411.0      21   6.4  "'Til Death Do Us Part" (2006) {The Airplane Murder (#1.3)}
+      1.1..400.0      12   5.2  "'Til Death Do Us Part" (2006) {The Beauty Queen Murder (#1.12)}
+      ..1.13.100      12   6.2  "'Til Death Do Us Part" (2006) {The Bog Murder (#1.9)}
+      ..2..23111      10   6.6  "'Til Death Do Us Part" (2006) {The Clown Case (#1.7)}
+      ..2..6.1.1      10   6.0  "'Til Death Do Us Part" (2006) {The In-Law Murders (#1.11)}
+      ..1.12.2.0      11   6.2  "'Til Death Do Us Part" (2006) {The Pond Scum Murder (#1.8)}
+      ..1..211.1      11   6.7  "'Til Death Do Us Part" (2006) {The Strip Club Murder (#1.6)}
+      ..2..5.2.1      10   6.2  "'Til Death Do Us Part" (2006) {Time Capsule Murder (#1.5)}
+      0000012101    5234   6.5  "'Til Death" (2006)
+      0..01121.2      17   6.8  "'Til Death" (2006) {Ally Abroad (#4.22)}
+      ...0111202      22   7.5  "'Til Death" (2006) {Ally's Pregnant (#4.27)}
+      0.0.022013      20   7.3  "'Til Death" (2006) {Baby Steps (#4.32)}
+      ....104100      32   7.2  "'Til Death" (2006) {Bedtime Stories (#2.7)}
+      .0..121101      21   7.1  "'Til Death" (2006) {Big Man, Little Man (#4.29)}
+      .0..203.20      15   6.7  "'Til Death" (2006) {Brother's Keeper (#4.30)}
+      ...0212001      18   6.8  "'Til Death" (2006) {Can't Elope (#4.16)}
+      ...0101112      21   7.9  "'Til Death" (2006) {Check Mate (#4.17)}
+      0..1013001      27   6.6  "'Til Death" (2006) {Circumdecision (#3.6)}
+      0.0.112111      39   7.2  "'Til Death" (2006) {Clay Date (#1.17)}
+      ..01.13101      17   6.8  "'Til Death" (2006) {Cold Case (#4.37)}
+      .0.0012201      36   7.4  "'Til Death" (2006) {Come Out and Play (#2.3)}
+      ..0.020103      13   7.5  "'Til Death" (2006) {Coupon Bob (#4.36)}
+      0000001311      41   7.5  "'Til Death" (2006) {Daddy's Girl (#1.10)}
+      ...0002311      44   7.8  "'Til Death" (2006) {Death Sex (#1.8)}
+      ....1.3103      16   8.1  "'Til Death" (2006) {Dog Fight (#4.24)}
+      ....1113.1      16   7.4  "'Til Death" (2006) {Doug and Ally Return (#4.1)}
+      ..00003211      45   7.6  "'Til Death" (2006) {Dream Weaver (#1.7)}
+      ..0.012100      21   6.8  "'Til Death" (2006) {Dreamguys (#3.3)}
+      000.1041.1      19   6.5  "'Til Death" (2006) {Eddie's Book (#4.3)}
+      .000023001      31   6.7  "'Til Death" (2006) {Everybody Digs Doug (#2.9)}
+      .0..111202      18   7.4  "'Til Death" (2006) {Family Vacation (#4.26)}
+      0....12311      45   7.7  "'Til Death" (2006) {Fight Friend (#1.13)}
+      .0.0131100      39   6.5  "'Til Death" (2006) {Four Neighbors and a Funeral (#2.2)}
+      0..0112011      26   7.2  "'Til Death" (2006) {Hi Def TV (#4.9)}
+      000.002311      44   7.4  "'Til Death" (2006) {I Heart Woodcocks (#1.18)}
+      0.0.1.2111      18   6.9  "'Til Death" (2006) {Independent Action (#4.11)}
+      0.00022101      36   6.7  "'Til Death" (2006) {Joy Ride (#3.2)}
+      0.0.004002      22   7.0  "'Til Death" (2006) {Joy's Mom (#4.23)}
+      ....2122.0      21   6.7  "'Til Death" (2006) {Joy's Out of Work (#4.8)}
+      00.01111.3      20   7.2  "'Til Death" (2006) {Let's Go (#4.33)}
+      0...001113      23   8.0  "'Til Death" (2006) {Merit Pay (#4.19)}
+      .0.0003210      34   7.4  "'Til Death" (2006) {Mixed Doubles (#2.5)}
+      00.0012002      21   7.1  "'Til Death" (2006) {No Complaints (#4.4)}
+      0.1.013110      28   6.7  "'Til Death" (2006) {No More Mr. Vice Guy (#2.8)}
+      ..0.023110      18   6.9  "'Til Death" (2006) {Perfect Couple (#4.14)}
+      0.00012102      38   7.2  "'Til Death" (2006) {Performance Anxiety (#2.1)}
+      ....124101      20   7.1  "'Til Death" (2006) {Philadelphia Freedom (#3.5)}
+      00.0011112      77   7.5  "'Til Death" (2006) {Pilot (#1.1)}
+      ...0023001      26   7.1  "'Til Death" (2006) {Raisinette in the Sun (#2.11)}
+      0.00003110      33   7.0  "'Til Death" (2006) {Really Big Brother (#2.10)}
+      ....002021      21   7.8  "'Til Death" (2006) {Second Marriage Guy (#2.14)}
+      ..00022102      25   7.2  "'Til Death" (2006) {Secret Meatball (#3.7)}
+      ....002103      21   8.0  "'Til Death" (2006) {Sell the House (#4.25)}
+      .000003011      25   6.6  "'Til Death" (2006) {Separate Beds (#4.2)}
+      .0.0012211      60   7.6  "'Til Death" (2006) {Sex for Furniture (#1.2)}
+      00.0001112      23   7.3  "'Til Death" (2006) {Smart Phone (#4.28)}
+      ..0.123.11      19   6.9  "'Til Death" (2006) {Snip/Duck (#2.12)}
+      ....013102      18   7.7  "'Til Death" (2006) {Snore Loser (#4.12)}
+      ..01121000      27   6.3  "'Til Death" (2006) {Sob Story (#2.13)}
+      00.0021101      24   6.6  "'Til Death" (2006) {Speed Bumps (#3.1)}
+      .00..12210      23   6.9  "'Til Death" (2006) {Sugar Dougie (#3.4)}
+      0.000.2121      48   7.6  "'Til Death" (2006) {Summer of Love (#1.22)}
+      0.00013001      30   6.8  "'Til Death" (2006) {Swimming with the Starks (#2.15)}
+      ....001312      45   8.2  "'Til Death" (2006) {That's Ridiculous (#1.20)}
+      ....012211      42   7.7  "'Til Death" (2006) {The Anniversary Party (#1.11)}
+      0.000120.3      23   7.0  "'Til Death" (2006) {The Baby (#4.34)}
+      ....111211      43   7.6  "'Til Death" (2006) {The Bachelor Party (#1.15)}
+      .0..0.51.2      15   7.3  "'Til Death" (2006) {The Break-Up (#4.13)}
+      0..2022000      25   6.0  "'Til Death" (2006) {The Buffer (#4.7)}
+      ....022101      21   7.5  "'Til Death" (2006) {The Check-Up (#4.15)}
+      ...0001312      45   8.0  "'Til Death" (2006) {The Coffee Maker (#1.19)}
+      0...002311      39   7.8  "'Til Death" (2006) {The Colleague (#1.14)}
+      ....013111      17   7.6  "'Til Death" (2006) {The Concert (#4.18)}
+      .1..102211      20   7.2  "'Til Death" (2006) {The Courtship of Eddie's Parents (#4.5)}
+      .0..0240.2      20   7.2  "'Til Death" (2006) {The Ex-Factor (#4.6)}
+      .0.0003211      50   7.7  "'Til Death" (2006) {The Garage Band (#1.5)}
+      ....011311      41   7.9  "'Til Death" (2006) {The Hockey Lie (#1.12)}
+      ...0001411      41   8.0  "'Til Death" (2006) {The Italian Affair (#1.16)}
+      ..00111111      19   7.2  "'Til Death" (2006) {The Joy of Learning (#4.35)}
+      0.011022.1      29   6.6  "'Til Death" (2006) {The New Neighbors (#4.20)}
+      ....113110      23   7.2  "'Til Death" (2006) {The Not-So-Perfect Couple (#4.10)}
+      .0.0002301      53   7.4  "'Til Death" (2006) {The Ring (#1.3)}
+      ...0012111      35   7.4  "'Til Death" (2006) {The Tale of the Tape (#2.4)}
+      ..0.002212      45   7.8  "'Til Death" (2006) {The Toaster (#1.9)}
+      1.00221.1.      22   5.2  "'Til Death" (2006) {The Wedding (#4.21)}
+      ...0003211      50   7.8  "'Til Death" (2006) {The Wood Pile (#1.4)}
+      ...0001202      32   7.8  "'Til Death" (2006) {Vintage Eddie (#2.6)}
+      ...0002311      37   7.8  "'Til Death" (2006) {Webby's Not Happy (#1.21)}
+      .0.0021101      22   7.0  "'Til Death" (2006) {Work Wife (#4.31)}
+      ...0.12311      45   7.8  "'Til Death" (2006) {Your Mother or Your Wife (#1.6)}
+      1....23.12       9   7.0  "'Wag kukurap" (2004)
+      0000001223      90   8.3  "'Way Out" (1961)
+      .....14110      12   7.6  "'Way Out" (1961) {Death Wish (#1.9)}
+      ......4301      14   7.9  "'Way Out" (1961) {Dissolve to Black (#1.8)}
+      ......1222       7   8.7  "'Way Out" (1961) {False Face (#1.7)}
+      .....01421      17   8.2  "'Way Out" (1961) {I Heard You Calling Me (#1.5)}
+      .......315       8   9.1  "'Way Out" (1961) {Side Show (#1.12)}
+      .....22210      15   7.5  "'Way Out" (1961) {The Croaker (#1.6)}
+      0...112012      20   7.2  "'Way Out" (1961) {William and Mary (#1.1)}
+      2...12..2.       7   5.3  "'t Is maar een spel" (2002)
+      0..0001202      32   7.3  "'t Schaep Met De 5 Pooten" (1969)
+      .1...2122.       8   6.9  "'t Zal je gebeuren..." (1998)
+      0000032100     196   6.3  "'t Zonnetje in huis" (1993)
+      .....230.2      14   7.6  "(Des)encontros" (2014)
+      11...1.1.4       7   6.7  "(My) Immortal: The Web Series" (2013)
+      ....2....8       5   9.0  "(Tnpesa)" (2013)
+      00.0.01222     130   7.3  "(fdp)" (2012)
+      1000001102     186   5.0  "*Loosely Exactly Nicole" (2016)
+      ...22.12.1       8   6.4  "*Loosely Exactly Nicole" (2016) {Babysitting (#1.1)}
+      ..2.22.2.2       5   6.4  "*Loosely Exactly Nicole" (2016) {Breakfast with Derrick (#1.2)}
+      1...1.1.13       6   7.0  "*Loosely Exactly Nicole" (2016) {Six Hour Braid (#1.3)}
+      0..11121.0      17   6.1  "+ Clair" (2001)
+      ...1112002      19   7.2  "+ de cinéma" (2001)
+      100.1110.4      19   6.9  "+ de cinéma" (2001) {(2002-03-20)}
+      2011110000      52   3.8  "+100500" (2011)
+      0...001212      25   7.7  "...Ystera, irthan oi melisses" (2000)
+      ....1.51.2       8   7.6  "...e la vita continua" (1984)
+      0....01313      25   8.2  "...e le stelle stanno a guardare" (1971)
+      22.2.2...2       5   4.6  ".COM" (1999)
+      0000112101     201   6.8  ".hack//Roots" (2006)
+      .2...62...       5   5.4  ".hack//Roots" (2006) {Bonds (#1.22)}
+      ....2312..       8   6.4  ".hack//Roots" (2006) {Conflict (#1.6)}
+      ....1511..       6   6.3  ".hack//Roots" (2006) {Distrust (#1.5)}
+      ....3311..       6   6.2  ".hack//Roots" (2006) {Forefeel (#1.4)}
+      ....611...       6   5.5  ".hack//Roots" (2006) {Intrigue (#1.7)}
+      ....113..3       6   7.5  ".hack//Roots" (2006) {Join (#1.3)}
+      .....4.4.2       5   7.6  ".hack//Roots" (2006) {Limit (#1.18)}
+      .....81...       6   6.2  ".hack//Roots" (2006) {Starting (#1.8)}
+      ....24.2.2       5   7.0  ".hack//Roots" (2006) {Twilight Brigade (#1.2)}
+      .....242.2       5   7.6  ".hack//Roots" (2006) {Welcome to 'The World' (#1.1)}
+      0000012111     975   7.1  ".hack//SIGN" (2002)
+      ....1.44.1      10   7.5  ".hack//SIGN" (2002) {Captured (#1.5)}
+      .....12211       7   7.9  ".hack//SIGN" (2002) {Castle (#1.14)}
+      .....13221       9   7.9  ".hack//SIGN" (2002) {Catastrophe (#1.25)}
+      .....33.11       8   7.2  ".hack//SIGN" (2002) {Compensation (#1.10)}
+      ....1.51.1       7   7.3  ".hack//SIGN" (2002) {Conflict (#1.17)}
+      .....18...       7   6.9  ".hack//SIGN" (2002) {Declaration (#1.18)}
+      ....115..1       7   7.0  ".hack//SIGN" (2002) {Depth (#1.16)}
+      ....116..1       8   7.0  ".hack//SIGN" (2002) {Despair (#1.21)}
+      .....132.2      12   7.8  ".hack//SIGN" (2002) {Encounter (#1.6)}
+      ....1.51.2       8   7.6  ".hack//SIGN" (2002) {Entanglement (#1.12)}
+      ....1151.1       8   7.1  ".hack//SIGN" (2002) {Epitaph (#1.9)}
+      ...1213..1       8   6.4  ".hack//SIGN" (2002) {Evidence (#1.15)}
+      ...01031.1      13   7.0  ".hack//SIGN" (2002) {Folklore (#1.3)}
+      ..0.103102      17   7.4  ".hack//SIGN" (2002) {Guardian (#1.2)}
+      ....134.1.       9   6.7  ".hack//SIGN" (2002) {Intermezzo (#1.27)}
+      ......6111       8   7.8  ".hack//SIGN" (2002) {Net Slum (#1.24)}
+      .....151.2       8   7.8  ".hack//SIGN" (2002) {Party (#1.11)}
+      .....232.1       8   7.4  ".hack//SIGN" (2002) {Phantom (#1.22)}
+      ....2141.2      10   7.2  ".hack//SIGN" (2002) {Promise (#1.8)}
+      .....141.1      11   7.5  ".hack//SIGN" (2002) {Reason (#1.7)}
+      .....241.2       9   7.6  ".hack//SIGN" (2002) {Recollection (#1.19)}
+      .....03102      11   8.1  ".hack//SIGN" (2002) {Return (#1.26)}
+      ....1150.1      24   7.0  ".hack//SIGN" (2002) {Role Play (#1.1)}
+      .....152.1       8   7.5  ".hack//SIGN" (2002) {Tempest (#1.20)}
+      ......6111       9   7.7  ".hack//SIGN" (2002) {The Eve (#1.23)}
+      .....25..1       7   7.1  ".hack//SIGN" (2002) {Twilight Eye (#1.13)}
+      .....3411.       9   7.0  ".hack//SIGN" (2002) {Unison (#1.28)}
+      .....153.1      10   7.5  ".hack//SIGN" (2002) {Wanted (#1.4)}
+      0000022101     301   6.4  ".hack//Tasogare no udewa densetsu" (2003)
+      1....521.1      10   6.3  ".hack//Tasogare no udewa densetsu" (2003) {Densetsu no yusha (#1.1)}
+      1..111.131       9   6.8  "/Drive on NBCSN" (2014)
+      0000012100     117   6.4  "009-1" (2006)
+      ....2.26..       5   7.2  "009-1" (2006) {Dasshutsu (#1.11)}
+      ....242.2.       5   6.6  "009-1" (2006) {Fukushû (#1.9)}
+      .....3.131       6   8.0  "009-1" (2006) {Hâdo boirudo (#1.3)}
+      ....244...       5   6.2  "009-1" (2006) {Kojô yori no shôtaijô (#1.4)}
+      ....226...       5   6.4  "009-1" (2006) {Poppu (#1.6)}
+      ....2222.2       5   7.2  "009-1" (2006) {R&B}
+      ....11.7..       8   7.4  "009-1" (2006) {Seiya (#1.2)}
+      ....3.43..      10   6.7  "009-1" (2006) {Sen'nyûsha tachi (#1.1)}
+      .1..1311..       6   5.7  "0137" (1991)
+      0000012211     131   7.4  "07 zglos sie" (1976)
+      ....24.2.2       5   7.0  "07 zglos sie" (1976) {24 godziny sledztwa (#2.1)}
+      .....25.11       8   7.4  "07 zglos sie" (1976) {300 tysiecy w nowych banknotach (#1.4)}
+      .....15.11       6   7.7  "07 zglos sie" (1976) {Bilet do Frankfurtu (#4.4)}
+      ......6.11       6   7.8  "07 zglos sie" (1976) {Brudna sprawa (#2.3)}
+      .....6...4       5   7.6  "07 zglos sie" (1976) {Dlaczego pan zabil moja mame (#2.4)}
+      ....1.52.1       8   7.4  "07 zglos sie" (1976) {Dziwny wypadek (#1.3)}
+      ....4.22.2       5   7.0  "07 zglos sie" (1976) {Grobowiec rodziny von Rausch (#3.1)}
+      .....31..5       6   8.2  "07 zglos sie" (1976) {Hieny (#3.5)}
+      ....21.222       9   7.8  "07 zglos sie" (1976) {Major opóznia akcje (#1.1)}
+      ...1123..2       9   6.9  "07 zglos sie" (1976) {Morderca dziala noca (#4.3)}
+      ...111.1.4       7   7.6  "07 zglos sie" (1976) {Przerwany urlop (#5.3)}
+      ....31.1.3       6   7.3  "07 zglos sie" (1976) {Skok smierci (#4.1)}
+      ....1..115       6   8.7  "07 zglos sie" (1976) {Slad rekawiczki (#4.2)}
+      .....4.2.4       5   8.0  "07 zglos sie" (1976) {Strzal na dancingu (#3.4)}
+      ....1..521       8   8.1  "07 zglos sie" (1976) {Wisior (#1.2)}
+      ...0101.12      11   7.5  "07 zglos sie" (1976) {Zamknac za soba drzwi (#5.1)}
+      .....24.22       5   7.8  "07 zglos sie" (1976) {Zlocisty (#5.2)}
+      ....1.24.1       7   7.6  "07 zglos sie" (1976) {Zloty kielich z rubinami (#2.2)}
+      0000012111     308   7.1  "07-Ghost" (2009)
+      ..1...6..1       6   6.8  "07-Ghost" (2009) {Setsunaru omoi no yuku sue wa (#1.1)}
+      2...101.01      11   5.6  "0800 no llames" (2005)
+      1.00011102      57   7.1  "099 Central" (2002)
+      0...000124      45   8.6  "1 Contra Todos" (2016)
+      ......4.22       7   8.4  "1 Contra Todos" (2016) {A Justiça é Cega (#1.1)}
+      .....1..35       6   9.0  "1 Contra Todos" (2016) {A Lei Vem do Rei (#1.2)}
+      110000.1.2      13   5.4  "1 Day with..." (2004)
+      2....6..2.       5   5.6  "1 Equipo" (2005)
+      0000001212    2480   7.7  "1 Erkek 1 Kadin" (2012)
+      0000000115     268   8.0  "1 Girl 5 Gays" (2009)
+      0000001212    1043   7.9  "1 Kadin 1 Erkek" (2008)
+      00.0010004      32   7.2  "1 Leicester Square" (2006)
+      1.11.3...2       8   5.8  "1 Leicester Square" (2006) {(#1.5)}
+      2.0..10103      18   6.6  "1 Minute Horror" (2015)
+      2.11.1.121       9   5.7  "1 Non Blonde" (2010)
+      111..1.1.2       7   5.7  "1 contra 100" (2006)
+      211111...1       8   4.0  "1 contre 100" (2007)
+      1..1.1.212       8   7.0  "1 for 3" (1997)
+      1.11.111.2       8   6.1  "1 gegen 100" (2008)
+      ..012301.1      19   6.2  "1 jaar gratis" (2001)
+      0010111001      71   5.9  "1 minas kai kati" (2007)
+      0000012112      69   7.4  "1 pondo no fukuin" (2008)
+      ...1.21112       8   7.5  "1 protiv 100" (2008)
+      1...13...3       6   6.3  "1 quart de 3" (2008)
+      8....1....      11   1.9  "1 voor de verkiezingen" (2012)
+      *.........       5   1.0  "1 voor de verkiezingen" (2012) {(#1.7)}
+      0000012001      84   6.4  "1 vs 100" (2007)
+      0000111101     720   6.2  "1 vs. 100" (2006)
+      ....1....8       6   9.2  "1 vs. 100" (2006) {(#1.3)}
+      12.01111.1      20   5.3  "1 vs. 100" (2010)
+      ..00021301      39   7.3  "1% eo-ddeon keot" (2003)
+      ....11322.       9   7.3  "1%ui Eoddungut" (2016)
+      0001231000      63   5.6  "1, 2 oder 3" (1977)
+      0000.211.1      24   6.2  "1, 2, 3" (1985)
+      111..211.2       9   5.9  "1, 2, 3, Out" (1999)
+      0000001112     167   7.2  "1,000 Places to See Before You Die" (2007)
+      ....2.242.       5   7.4  "1,000 Places to See Before You Die" (2007) {Australia (#1.5)}
+      ....3.113.       6   7.2  "1,000 Places to See Before You Die" (2007) {Canada (#1.13)}
+      ....1.3.13       6   8.0  "1,000 Places to See Before You Die" (2007) {Nepal (#1.10)}
+      1...000.05      13   7.6  "1-2-3 Istanbul!" (2009)
+      ...1.3.1.3       6   7.3  "1-2-3 Moskau!" (2008)
+      0000011102    1002   6.5  "1-800-Missing" (2003)
+      0.0.013.11      14   6.7  "1-800-Missing" (2003) {72 Hours to Kill (#1.10)}
+      0....01310      11   7.4  "1-800-Missing" (2003) {A Death in the Family (#3.13)}
+      0..0.02112      14   7.4  "1-800-Missing" (2003) {Analysis (#3.9)}
+      0...012021      14   7.2  "1-800-Missing" (2003) {And the Walls Come Tumbling Down (#3.5)}
+      1...222.11      15   6.3  "1-800-Missing" (2003) {Anything for the Baby: Part 1 (#3.1)}
+      1...122.01      14   6.2  "1-800-Missing" (2003) {Anything for the Baby: Part 2 (#3.2)}
+      1...022.11      14   6.5  "1-800-Missing" (2003) {Basic Training (#1.14)}
+      2.0.111001      17   5.4  "1-800-Missing" (2003) {Cop Out (#2.8)}
+      0....03021      12   7.5  "1-800-Missing" (2003) {Cut (#3.16)}
+      1...022.01      12   6.2  "1-800-Missing" (2003) {Deep Cover (#2.14)}
+      0...122.11      13   6.8  "1-800-Missing" (2003) {Deliverance from Evil (#1.11)}
+      0100301.01      30   5.4  "1-800-Missing" (2003) {Delusional (#1.17)}
+      4....10.02      31   5.0  "1-800-Missing" (2003) {Domestic Bliss (#2.7)}
+      0.0.012001      12   6.6  "1-800-Missing" (2003) {Double Take (#3.17)}
+      1...002020      12   6.6  "1-800-Missing" (2003) {Exposure (#3.18)}
+      0..0022.11      14   6.6  "1-800-Missing" (2003) {Father Figure (#1.15)}
+      00...02113      15   7.6  "1-800-Missing" (2003) {Fugitive (#3.8)}
+      0...112.12      13   7.1  "1-800-Missing" (2003) {Have You Seen This Man? (#3.14)}
+      0....13002      13   7.3  "1-800-Missing" (2003) {I Thought I Knew You (#1.4)}
+      1...002112      16   7.2  "1-800-Missing" (2003) {In the Midnight Hour (#2.6)}
+      0.0.021111      17   7.0  "1-800-Missing" (2003) {Insomnia (#1.3)}
+      00..113120      19   6.8  "1-800-Missing" (2003) {John Doe (#2.15)}
+      0...011122      18   7.7  "1-800-Missing" (2003) {Judgement Day (#2.3)}
+      00..010113      18   7.7  "1-800-Missing" (2003) {Last Night (#3.7)}
+      0...002211      14   7.4  "1-800-Missing" (2003) {Last Stop (#2.5)}
+      0..1.13.10      12   6.4  "1-800-Missing" (2003) {Looking for Mr. Wright (#3.6)}
+      0...221.11      17   6.4  "1-800-Missing" (2003) {Lost Sister (#1.16)}
+      0.0.022002      14   6.8  "1-800-Missing" (2003) {M.I.A. (#1.9)}
+      0...012111      13   7.2  "1-800-Missing" (2003) {Mr. Nobody (#2.11)}
+      0...122010      13   6.6  "1-800-Missing" (2003) {Never Go Against the Family (#1.6)}
+      0....22202      14   7.4  "1-800-Missing" (2003) {Off the Grid (#3.4)}
+      0...013011      16   7.2  "1-800-Missing" (2003) {One Night Stand (#2.2)}
+      00..111102      14   6.7  "1-800-Missing" (2003) {Paper Anniversary (#2.17)}
+      0....20222      14   7.6  "1-800-Missing" (2003) {Patient X (#3.11)}
+      0...112110      13   6.8  "1-800-Missing" (2003) {Phoenix Rising (#2.16)}
+      0..0022110      23   6.6  "1-800-Missing" (2003) {Pilot (#1.1)}
+      0...122012      15   7.1  "1-800-Missing" (2003) {Pop Star (#2.10)}
+      00..220.01      12   6.0  "1-800-Missing" (2003) {Puzzle Box (#2.9)}
+      0...001031      12   7.5  "1-800-Missing" (2003) {Resurrection (#2.4)}
+      0.0.112100      21   6.6  "1-800-Missing" (2003) {Sea of Love (#2.1)}
+      0..0.12111      14   7.1  "1-800-Missing" (2003) {Sisterhood (#3.12)}
+      0...000114      24   8.1  "1-800-Missing" (2003) {So Shall Ye Reap (#3.19)}
+      0...011112      14   7.6  "1-800-Missing" (2003) {Spring Break (#3.15)}
+      0..0202012      15   6.9  "1-800-Missing" (2003) {These Dreams Before Me (#1.18)}
+      1.0..12112      19   7.1  "1-800-Missing" (2003) {They Come as They Go (#1.2)}
+      0...012120      15   7.2  "1-800-Missing" (2003) {Thin Air (#1.5)}
+      0...003.03      13   7.4  "1-800-Missing" (2003) {This Is Your Life (#1.7)}
+      00...23.01      12   6.5  "1-800-Missing" (2003) {Ties That Bind (#1.8)}
+      00.0013.11      15   6.5  "1-800-Missing" (2003) {Truth or Dare: Part 1 (#2.12)}
+      0.00002202      15   6.9  "1-800-Missing" (2003) {Truth or Dare: Part 2 (#2.13)}
+      0...102212      15   7.3  "1-800-Missing" (2003) {Try Again (#3.10)}
+      0...121011      16   6.7  "1-800-Missing" (2003) {Unnatural Disaster (#3.3)}
+      10...31010      16   5.8  "1-800-Missing" (2003) {Victoria (#1.12)}
+      1....13002      15   7.1  "1-800-Missing" (2003) {We Are Coming Home (#2.18)}
+      1.0.111110      18   5.8  "1-800-Missing" (2003) {White Whale (#1.13)}
+      3....1..14      22   6.5  "1/2 Hour Comedy Hour" (1990)
+      1.00121001      27   5.9  "10 + 2" (1994)
+      0000001212      90   7.6  "10 Days to War" (2008)
+      .2.....411       7   6.7  "10 Days to War" (2008) {Blowback (#1.5)}
+      .1..1..5.1       6   6.8  "10 Days to War" (2008) {Failure Is Not an Option (#1.7)}
+      .2..2.22.2       5   6.4  "10 Days to War" (2008) {Fear on the Ground (#1.6)}
+      .1.....224       9   8.4  "10 Days to War" (2008) {Our Business Is North (#1.8)}
+      .2.....44.       5   7.2  "10 Days to War" (2008) {These Things Are Always Chaos (#1.3)}
+      .1...2.4.1       7   6.9  "10 Days to War" (2008) {Why This Rush? (#1.4)}
+      1..1.11..4       7   6.9  "10 Grand in Your Hand" (2009)
+      21...4...1       7   4.6  "10 Great Reasons" (2008)
+      1000001112    1170   6.8  "10 Items or Less" (2006)
+      .1..11231.       9   6.7  "10 Items or Less" (2006) {Amy Strikes Back (#2.6)}
+      0..02.1300      17   6.6  "10 Items or Less" (2006) {Bag It (#1.5)}
+      .11.1311..       8   5.4  "10 Items or Less" (2006) {Dances with Groceries (#3.7)}
+      .0100.041.      14   6.4  "10 Items or Less" (2006) {Dollar Day Afternoon (#2.1)}
+      .1..21.3.1       8   6.5  "10 Items or Less" (2006) {Eye Can See Clearly (#3.2)}
+      .2..2123..      10   5.8  "10 Items or Less" (2006) {First Time (#2.4)}
+      .00.1212.0      13   6.2  "10 Items or Less" (2006) {Forever Young (#2.2)}
+      .00.0223..      15   6.4  "10 Items or Less" (2006) {Health Insurance (#1.3)}
+      .1.1.3211.       9   6.1  "10 Items or Less" (2006) {Illegal Alien (#2.7)}
+      .1.2.21.11       8   6.0  "10 Items or Less" (2006) {One Day at a Time (#3.4)}
+      .1..2312.1      10   6.3  "10 Items or Less" (2006) {Sesquicentennial (#3.8)}
+      .1.11.1201      18   6.6  "10 Items or Less" (2006) {Star Trok (#3.3)}
+      .0.100210.      11   6.1  "10 Items or Less" (2006) {The Bromance (#2.5)}
+      .1...3111.       6   6.3  "10 Items or Less" (2006) {The Milk Man (#3.6)}
+      1.1011210.      20   5.7  "10 Items or Less" (2006) {The Miracle Worker (#1.2)}
+      .000112001      31   6.8  "10 Items or Less" (2006) {The New Boss (#1.1)}
+      .1..1233..      10   6.4  "10 Items or Less" (2006) {The Ren Fair (#2.8)}
+      .1...313..       8   6.4  "10 Items or Less" (2006) {The Whistler (#3.5)}
+      .10.0311..      12   5.5  "10 Items or Less" (2006) {To Heir Is Human (#2.3)}
+      .0..0.3112      14   7.6  "10 Items or Less" (2006) {Turkey Bowling (#3.1)}
+      .0.011220.      13   6.3  "10 Items or Less" (2006) {What Women Want (#1.4)}
+      2000110002      53   5.3  "10 Million Dollar Bigfoot Bounty" (2014)
+      .....11.15       7   8.9  "10 Million Dollar Bigfoot Bounty" (2014) {Bigfoot's Blood (#1.1)}
+      0000001211      61   7.5  "10 Minute Tales" (2009)
+      0.0.011112      23   7.3  "10 Minute Tales" (2009) {Deep & Crisp & Even (#1.1)}
+      ..1.2141.1      10   6.5  "10 Minute Tales" (2009) {Ding Dong (#1.3)}
+      .....331.1       6   7.3  "10 Minute Tales" (2009) {Dog Alone (#1.6)}
+      .....322.1       8   7.2  "10 Minute Tales" (2009) {Let It Snow (#1.4)}
+      ...1125...       8   6.1  "10 Minute Tales" (2009) {Perfect Day (#1.10)}
+      0...013201      64   7.3  "10 Minute Tales" (2009) {Statuesque (#1.5)}
+      0...01231.      13   6.8  "10 Minute Tales" (2009) {Syncing (#1.9)}
+      .....1241.       7   7.6  "10 Minute Tales" (2009) {The Running of the Deer (#1.11)}
+      0..0.30001      11   6.6  "10 Minute Tales" (2009) {The Three Kings (#1.7)}
+      .....55...       8   6.5  "10 Minute Tales" (2009) {The Walkers (#1.2)}
+      1...113.12       9   6.9  "10 Minute Tales" (2009) {Through the Window (#1.8)}
+      0000002211     518   7.3  "10 O'Clock Live" (2011)
+      ....212.21       8   7.2  "10 O'Clock Live" (2011) {(#1.1)}
+      .....22222       5   8.0  "10 O'Clock Live" (2011) {(#1.10)}
+      ....2.2.21       7   7.4  "10 O'Clock Live" (2011) {(#1.2)}
+      ....2.2111       7   7.3  "10 O'Clock Live" (2011) {(#1.3)}
+      ....212.21       8   7.2  "10 O'Clock Live" (2011) {(#1.4)}
+      ....3.2.21       8   7.1  "10 O'Clock Live" (2011) {(#1.5)}
+      .....13111       6   7.8  "10 O'Clock Live" (2011) {(#1.6)}
+      ....1.3.13       6   8.0  "10 O'Clock Live" (2011) {(#1.7)}
+      ......4222       5   8.2  "10 O'Clock Live" (2011) {(#1.8)}
+      ....2.2222       5   7.8  "10 O'Clock Live" (2011) {(#1.9)}
+      ......6.22       5   8.0  "10 O'Clock Live" (2011) {(#2.1)}
+      ......6.22       5   8.0  "10 O'Clock Live" (2011) {(#2.10)}
+      ......4222       5   8.2  "10 O'Clock Live" (2011) {(#2.2)}
+      ......4222       5   8.2  "10 O'Clock Live" (2011) {(#2.3)}
+      ......4222       5   8.2  "10 O'Clock Live" (2011) {(#2.4)}
+      ......4.24       5   8.6  "10 O'Clock Live" (2011) {(#2.5)}
+      ......4222       5   8.2  "10 O'Clock Live" (2011) {(#2.6)}
+      ......4222       5   8.2  "10 O'Clock Live" (2011) {(#2.7)}
+      ......6.11       6   7.8  "10 O'Clock Live" (2011) {(#2.8)}
+      .....242.2       5   7.6  "10 O'Clock Live" (2011) {(#2.9)}
+      1..0..0005      22   7.8  "10 Second Traumas" (2011)
+      20...00003      22   6.0  "10 Things Every Guy Should Experience" (2004)
+      0000001113    4879   7.5  "10 Things I Hate About You" (2009)
+      ....011213      40   8.2  "10 Things I Hate About You" (2009) {Ain't No Mountain High Enough (#1.19)}
+      ...0.11401      32   7.8  "10 Things I Hate About You" (2009) {Changes (#1.18)}
+      ...0012211      37   7.8  "10 Things I Hate About You" (2009) {Da Repercussions (#1.11)}
+      .0.0.12202      45   7.8  "10 Things I Hate About You" (2009) {Dance Little Sister (#1.8)}
+      ..0.013102      32   7.7  "10 Things I Hate About You" (2009) {Don't Give Up (#1.5)}
+      0..0012103      48   7.9  "10 Things I Hate About You" (2009) {Don't Give a Damn About My Bad Reputation (#1.4)}
+      .000001113      49   8.0  "10 Things I Hate About You" (2009) {Don't Leave Me This Way (#1.10)}
+      0....12301      38   7.4  "10 Things I Hate About You" (2009) {Don't Trust Me (#1.12)}
+      ...0.12202      44   7.9  "10 Things I Hate About You" (2009) {Fight for Your Right (#1.9)}
+      ...0002401      36   7.9  "10 Things I Hate About You" (2009) {Great Expectations (#1.13)}
+      0...112202      61   7.5  "10 Things I Hate About You" (2009) {I Want You to Want Me (#1.2)}
+      .....12222      34   8.2  "10 Things I Hate About You" (2009) {Just One Kiss (#1.17)}
+      ..0.002203      47   8.2  "10 Things I Hate About You" (2009) {Light My Fire (#1.7)}
+      ...0012301      36   7.7  "10 Things I Hate About You" (2009) {Meat Is Murder (#1.14)}
+      0.00112002      93   7.0  "10 Things I Hate About You" (2009) {Pilot (#1.1)}
+      ....011113      49   8.3  "10 Things I Hate About You" (2009) {Revolution (#1.20)}
+      ...0001311      36   8.0  "10 Things I Hate About You" (2009) {The Winner Takes It All (#1.15)}
+      .....12301      33   7.9  "10 Things I Hate About You" (2009) {Too Much Information (#1.16)}
+      0.00012102      50   7.4  "10 Things I Hate About You" (2009) {Won't Get Fooled Again (#1.3)}
+      ...0012202      45   8.0  "10 Things I Hate About You" (2009) {You Can't Always Get What You Want (#1.6)}
+      ....011311      16   7.9  "10 Things You Didn't Know About..." (2006)
+      ....2..242       5   8.2  "10 Things You Didn't Know About..." (2006) {Avalanches (#2.3)}
+      .2..2..222       5   6.8  "10 Things You Didn't Know About..." (2006) {Tsunamis (#2.1)}
+      .....2.2.5       8   8.5  "10 Things You Didn't Know About..." (2006) {Volcanoes (#1.1)}
+      00.0001212     123   7.7  "10 Things You Don't Know About" (2012)
+      0..01040.0      12   6.2  "10 Things You Don't Know About" (2012) {Abraham Lincoln (#1.2)}
+      ...0023000      13   6.8  "10 Things You Don't Know About" (2012) {Adolf Hitler (#1.11)}
+      0.00.330.0      15   6.1  "10 Things You Don't Know About" (2012) {Benjamin Franklin (#1.1)}
+      ...1.143.1      10   7.2  "10 Things You Don't Know About" (2012) {Caligula (#1.10)}
+      1.....3312      10   7.5  "10 Things You Don't Know About" (2012) {Civil Rights (#3.3)}
+      ....113311      10   7.5  "10 Things You Don't Know About" (2012) {Edison & Tesla (#3.4)}
+      1...1232.1      10   6.5  "10 Things You Don't Know About" (2012) {General George Patton (#1.9)}
+      0....24..1      11   6.7  "10 Things You Don't Know About" (2012) {J Edgar Hoover (#1.4)}
+      00..033..0      14   5.9  "10 Things You Don't Know About" (2012) {John F Kennedy (#1.3)}
+      .....222.1       7   7.4  "10 Things You Don't Know About" (2012) {Las Vegas (#3.9)}
+      ....1.14.4      10   8.4  "10 Things You Don't Know About" (2012) {Marijuana (#3.7)}
+      ......52.1       7   7.7  "10 Things You Don't Know About" (2012) {Money (#3.8)}
+      ....002222      15   8.0  "10 Things You Don't Know About" (2012) {Pablo Escobar (#1.8)}
+      ....0.1212      11   8.3  "10 Things You Don't Know About" (2012) {Presidential Assassinations (#2.1)}
+      .....12212       8   8.1  "10 Things You Don't Know About" (2012) {Prohibition (#2.4)}
+      .....223.1       8   7.5  "10 Things You Don't Know About" (2012) {Texas (#3.2)}
+      .....14111       7   7.7  "10 Things You Don't Know About" (2012) {The American Revolution (#3.5)}
+      ....112312      10   7.8  "10 Things You Don't Know About" (2012) {The Flag (#3.1)}
+      ....1124.1       9   7.4  "10 Things You Don't Know About" (2012) {The Founding Fathers (#2.3)}
+      .....242.2       5   7.6  "10 Things You Don't Know About" (2012) {The Gold Rush (#3.10)}
+      ....1.34.1       9   7.6  "10 Things You Don't Know About" (2012) {The Hoover Dam (#3.6)}
+      1...1133.1      10   6.7  "10 Things You Don't Know About" (2012) {The Mormons (#1.7)}
+      ..11.24..1       9   6.3  "10 Things You Don't Know About" (2012) {The OK Corral (#1.5)}
+      .....243.1      10   7.4  "10 Things You Don't Know About" (2012) {The Rat Pack (#1.12)}
+      .....341.1       9   7.1  "10 Things You Don't Know About" (2012) {The Roosevelts (#1.6)}
+      .....23211       9   7.6  "10 Things You Don't Know About" (2012) {The White House (#2.2)}
+      .1..11.2.3       8   7.4  "10 Things You Must Know" (2006)
+      220.001001      20   4.8  "10 Things" (2016)
+      100.101002      41   5.9  "10 Years Younger" (2004/I)
+      0101102001      65   5.9  "10 Years Younger" (2004/II)
+      22.202....      15   3.3  "10 om te zien" (1989)
+      0.0.00..16      16   8.3  "10 on Top" (2010)
+      0..00223.0      23   6.7  "10 vor 11" (1988) {Blinde Liebe/Jean-Luc Godard: Meine Mutter hat nur Stummfilme gesehen!}
+      0...013100      31   6.8  "10" (2010)
+      0001010002      55   6.5  "10,000 BC" (2015)
+      1000001111      57   6.0  "10,000 Days" (2010)
+      1...22.2..       7   5.6  "10-07: L'affaire Zeus" (1995)
+      0000001202     181   7.0  "10-8: Officers on Duty" (2003)
+      ....221.11       7   6.9  "10-8: Officers on Duty" (2003) {A Hard Day's Night (#1.2)}
+      ..11122.12      10   6.7  "10-8: Officers on Duty" (2003) {Badlands (#1.4)}
+      ....124.1.       7   6.7  "10-8: Officers on Duty" (2003) {Blood Sugar Sex Magik (#1.5)}
+      ....233.2.      10   6.7  "10-8: Officers on Duty" (2003) {Brothers in Arms (#1.1)}
+      0..0110.04      14   7.4  "10-8: Officers on Duty" (2003) {Flirtin' with Disaster (#1.12)}
+      0...111.02      11   6.9  "10-8: Officers on Duty" (2003) {Gimme Shelter (#1.8)}
+      1...122.1.       7   5.9  "10-8: Officers on Duty" (2003) {Gun of a Son (#1.3)}
+      ....511.1.       6   6.2  "10-8: Officers on Duty" (2003) {Gypsy Road (#1.13)}
+      ...1122.13      10   7.4  "10-8: Officers on Duty" (2003) {Late for School (#1.7)}
+      ....222.12       9   7.2  "10-8: Officers on Duty" (2003) {Let It Bleed (#1.9)}
+      ...1311.1.       6   6.0  "10-8: Officers on Duty" (2003) {Love Don't Love Nobody (#1.14)}
+      1...222.12      10   6.6  "10-8: Officers on Duty" (2003) {Lucy in the Sky (#1.11)}
+      ....222.11       8   6.9  "10-8: Officers on Duty" (2003) {Mercy, Mercy Me (#1.6)}
+      ...1221.11       8   6.5  "10-8: Officers on Duty" (2003) {The Wild Bunch (#1.10)}
+      ....221.11       7   6.9  "10-8: Officers on Duty" (2003) {Wild and the Innocent (#1.15)}
+      0..1011121      17   7.0  "10-nen saki mo kimi ni koishite" (2010)
+      1011110000    3386   4.6  "10.5" (2004)
+      1111110001    2028   4.4  "10.5: Apocalypse" (2006)
+      500000000.      25   3.3  "100 Best Videos Ever" (2007)
+      1.1.1.2..2       7   6.1  "100 Calabazas" (2011)
+      0.0.001122     133   7.8  "100 Centre Street" (2001)
+      ....4...24       5   7.8  "100 Centre Street" (2001) {Hurricane Paul (#2.16)}
+      301110.0.1      38   4.3  "100 Days of Summer" (2013)
+      10..000007     201   7.9  "100 Days to Heaven" (2011)
+      0000011102     604   7.2  "100 Deeds for Eddie McDowd" (1999)
+      1...222...       7   5.3  "100 Deeds for Eddie McDowd" (1999) {A Very Canine Christmas (#1.20)}
+      ....333...       9   6.0  "100 Deeds for Eddie McDowd" (1999) {All Howls Eve (#1.4)}
+      320.001000     308   3.5  "100 Deeds for Eddie McDowd" (1999) {Doggie Do Right (#3.1)}
+      2.2.222...       5   4.4  "100 Deeds for Eddie McDowd" (1999) {Eye of the Mongrel (#2.12)}
+      2...242...       5   5.0  "100 Deeds for Eddie McDowd" (1999) {Meet the New Boss (#1.14)}
+      ......2..7       8   9.2  "100 Deeds for Eddie McDowd" (1999) {Personal Trainer (#2.3)}
+      ....55....       6   5.5  "100 Deeds for Eddie McDowd" (1999) {Return of Gigi (#1.13)}
+      .11..00.14      14   7.2  "100 Deeds for Eddie McDowd" (1999) {Tagged (#1.1)}
+      00..011202      14   6.9  "100 Greatest Artists of All Time" (2010)
+      00..000015     135   8.3  "100 Greatest Artists of Hard Rock" (2000)
+      0.0001...4      11   6.8  "100 Greatest Dance Songs of Rock & Roll" (2000)
+      000.000213     179   8.2  "100 Greatest Discoveries" (2004)
+      ....1.2121       7   7.9  "100 Greatest Discoveries" (2004) {Astronomy}
+      .....1.313       6   8.5  "100 Greatest Discoveries" (2004) {Biology}
+      .....11223       9   8.6  "100 Greatest Discoveries" (2004) {Chemistry}
+      ...1.11.41       7   7.7  "100 Greatest Discoveries" (2004) {Earth Sciences}
+      .....1222.       7   7.7  "100 Greatest Discoveries" (2004) {Genetics}
+      .....31111       6   7.7  "100 Greatest Discoveries" (2004) {Medicine}
+      .....13221       9   7.9  "100 Greatest Discoveries" (2004) {Physics}
+      ......244.       5   8.2  "100 Greatest Discoveries" (2004) {Top Ten}
+      0.0..10204      30   8.2  "100 Greatest Songs of the '80s" (2006)
+      .1...22..2       7   6.9  "100 Greatest Songs of the 00s" (2011)
+      00.0001103      76   7.7  "100 Greatest Songs of the 90s" (2007)
+      00.0012101     135   6.8  "100 Greatest Stand-Ups of All Time" (2004)
+      ....212..5      10   8.0  "100 Greatest TV Characters" (2004)
+      2000011002     200   5.0  "100 Greatest Teen Stars" (2006)
+      60.000.1.0      22   3.0  "100 Huntley Street" (1985)
+      0000000223      84   8.4  "100 Jahre - Der Countdown" (1999)
+      .......513       6   8.8  "100 Jahre - Der Countdown" (1999) {1914 - Das Attentat von Sarajevo (#2.1)}
+      0000.12102      19   6.9  "100 Latinos Dijeron" (2013)
+      0..0.00123      26   8.1  "100 Miles from Nowhere" (2015)
+      1000011101     769   5.5  "100 Questions" (2010)
+      .0.0112102      19   7.3  "100 Questions" (2010) {Are You Open Minded? (#1.2)}
+      0..0.212.2      15   7.0  "100 Questions" (2010) {Are You Romantic? (#1.3)}
+      00..2111.2      19   6.5  "100 Questions" (2010) {Have You Ever Dated a Bad Boy? (#1.4)}
+      .0.01112.2      17   7.1  "100 Questions" (2010) {Have You Ever Had a One-Night Stand? (#1.6)}
+      .0.1120102      15   6.7  "100 Questions" (2010) {Wayne? (#1.5)}
+      .010111102      19   6.8  "100 Questions" (2010) {What Brought You Here? (#1.1)}
+      1000001003     480   6.2  "100 Things to Do Before High School" (2014)
+      00.00.11.3      24   6.8  "100 Things to Do Before High School" (2014) {100 Things to Do Before High School (#1.1)}
+      .1..1111.3       8   7.2  "100 Things to Do Before High School" (2014) {Adopt a Flour Baby Thing! (#1.7)}
+      ..111.2212      10   7.1  "100 Things to Do Before High School" (2014) {Always Tell the Truth (But Not Always) Thing! (#1.20)}
+      .0.001.104      14   7.7  "100 Things to Do Before High School" (2014) {Be a Fairy Godmother Thing (#1.5)}
+      ..1.113111       9   6.9  "100 Things to Do Before High School" (2014) {Be a Mad Scientist Thing! (#1.13)}
+      ...1111113       9   7.7  "100 Things to Do Before High School" (2014) {Become a Millionaire and Give It All Away Thing! (#1.21)}
+      ....0211.3      12   7.8  "100 Things to Do Before High School" (2014) {Change Your Look and See What Happens Thing! (#1.8)}
+      ...0.2.105      15   8.5  "100 Things to Do Before High School" (2014) {Find Your Super Power Thing! (#1.9)}
+      ..1.1.1133      10   8.0  "100 Things to Do Before High School" (2014) {Get Your Heart Pre-Broken Thing! (#1.26)}
+      ..11.112.3       9   7.3  "100 Things to Do Before High School" (2014) {Get the Most Out of a Sick Day Thing! (#1.16)}
+      ..0.1.0005      12   8.1  "100 Things to Do Before High School" (2014) {Have the Best Halloween School Day Ever Thing! (#1.15)}
+      0.010.01.4      15   7.3  "100 Things to Do Before High School" (2014) {Join a Club Thing! (#1.14)}
+      ...12.12.2       8   7.1  "100 Things to Do Before High School" (2014) {Leave Your Mark Thing! (#1.22)}
+      ....2.1103      12   7.8  "100 Things to Do Before High School" (2014) {Make a New Friend Thing! (#1.12)}
+      .2...112.2       8   6.6  "100 Things to Do Before High School" (2014) {Master a Thing Thing! (#1.24)}
+      1.1.1.12.1       7   6.0  "100 Things to Do Before High School" (2014) {Meet Your Idol Thing! (#1.23)}
+      ....213..2       8   7.1  "100 Things to Do Before High School" (2014) {Raise Your Hand Thing! (#1.25)}
+      1...2113.2      10   6.8  "100 Things to Do Before High School" (2014) {Run for Office Thing! (#1.19)}
+      0.0.1.1115      20   8.1  "100 Things to Do Before High School" (2014) {Run with the Bears Thing (#1.3)}
+      ....101005      16   8.4  "100 Things to Do Before High School" (2014) {Say Yes to Everything for a Day (#1.4)}
+      ..0.100103      12   7.6  "100 Things to Do Before High School" (2014) {Scavenger Hunt Thing! (#1.11)}
+      ....311112       9   7.2  "100 Things to Do Before High School" (2014) {Sit at a Different Table at Lunch Thing! (#1.17)}
+      00.00.11.4      17   7.6  "100 Things to Do Before High School" (2014) {Start a Garage Band Thing (#1.2)}
+      ...0010003      11   7.7  "100 Things to Do Before High School" (2014) {Stay Up All Night Thing! (#1.6)}
+      ...1111123      10   7.8  "100 Things to Do Before High School" (2014) {Survive the Virus Attack Trapped in Your Home Base Station Thing! (#1.18)}
+      11.00000.3      14   6.1  "100 Winners" (2007)
+      0000012102     246   7.2  "100 Years of Horror" (1996)
+      0...101203      15   7.6  "100 Years of Horror" (1996) {100 Years of Horror: Gory Gimmicks (#1.18)}
+      ...0011..4      11   7.7  "100 Years of Horror" (1996) {Aliens (#1.20)}
+      ...01.30.3      12   7.5  "100 Years of Horror" (1996) {Baron Frankenstein (#1.4)}
+      ....0022.2      11   7.8  "100 Years of Horror" (1996) {Bela Lugosi (#1.7)}
+      ...11010.2      11   6.9  "100 Years of Horror" (1996) {Blood-Drinking Beings (#1.2)}
+      ....003102      12   7.8  "100 Years of Horror" (1996) {Boris Karloff (#1.8)}
+      ...00.1104      12   8.2  "100 Years of Horror" (1996) {Demons (#1.12)}
+      ...1222..3      10   7.0  "100 Years of Horror" (1996) {Dinosaurs (#1.26)}
+      ..0.015..1      12   6.8  "100 Years of Horror" (1996) {Dr. Jekyll and Mr. Hyde (#1.5)}
+      ....0240.1      15   7.1  "100 Years of Horror" (1996) {Dracula and His Disciples (#1.1)}
+      1..0122001      24   6.3  "100 Years of Horror" (1996) {Freaks (#1.14)}
+      ....116..2      10   7.3  "100 Years of Horror" (1996) {Ghosts (#1.9)}
+      2.00111002      20   5.8  "100 Years of Horror" (1996) {Giants (#1.25)}
+      ...0012.03      12   7.6  "100 Years of Horror" (1996) {Girl Ghouls (#1.16)}
+      ....2.4..2       7   7.3  "100 Years of Horror" (1996) {Mad Doctors (#1.23)}
+      ...03.1.02      11   7.0  "100 Years of Horror" (1996) {Man-Made Monsters (#1.24)}
+      2.0.101002      37   6.0  "100 Years of Horror" (1996) {Maniacs (#1.17)}
+      ....213..2       8   7.1  "100 Years of Horror" (1996) {Mummies (#1.21)}
+      ...1113.13      10   7.5  "100 Years of Horror" (1996) {Mutants (#1.13)}
+      ....114..2       7   7.4  "100 Years of Horror" (1996) {Phantoms (#1.10)}
+      1000101012      39   6.0  "100 Years of Horror" (1996) {Scream Queens (#1.15)}
+      1000101101      29   5.8  "100 Years of Horror" (1996) {Sorcerers (#1.19)}
+      ...0103..2      11   7.1  "100 Years of Horror" (1996) {Werewolves (#1.6)}
+      ....1231.2       9   7.3  "100 Years of Horror" (1996) {Witches (#1.11)}
+      0..02.2..3      14   7.0  "100 Years of Horror" (1996) {Zombies (#1.22)}
+      0.00001212     466   7.8  "100 höjdare" (2004)
+      ....224..2       5   7.0  "100 höjdare" (2004) {(#5.3)}
+      ....5111.1       8   6.4  "100 höjdare" (2004) {(#5.5)}
+      ....144...       7   6.3  "100 höjdare" (2004) {(#5.6)}
+      ....1.8...       6   6.7  "100 höjdare" (2004) {(#5.7)}
+      ....220001      11   7.0  "100 höjdare" (2004) {(#5.8)}
+      .....622..       5   6.6  "100 höjdare" (2004) {De senaste 34 årens tio punkigaste ögonblick (#3.8)}
+      ....224...       7   6.1  "100 höjdare" (2004) {De sämsta idéerna 1975-2004 (#3.5)}
+      ....125...       7   6.4  "100 höjdare" (2004) {De tio roligaste ögonblicken ur den gott & blandat-påse vi kallar film & tv (#3.7)}
+      ....2211.1       7   6.7  "100 höjdare" (2004) {Efterkrigstidens tio tyngsta hjärnsläpp (#3.1)}
+      ....4111.1       7   6.6  "100 höjdare" (2004) {Efterkrigstidens uslaste ögonblick (#3.4)}
+      ....1511..       7   6.3  "100 höjdare" (2004) {När hybrisen kom till byn (#3.6)}
+      ..212.1..1       7   5.3  "100 höjdare" (2004) {Samling (#5.9)}
+      ....4..6..       5   6.8  "100 höjdare" (2004) {Sveriges skönaste människor: Final (#4.8)}
+      ....125.1.       8   6.8  "100 höjdare" (2004) {Sveriges skönaste människor: Gnällbältet (#4.2)}

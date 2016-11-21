@@ -1,0 +1,1000 @@
+CRC: 0xD5B2A8E8  File: genres.list  Date: Fri Nov  4 00:00:00 2016
+
+-----------------------------------------------------------------------------
+
+                            This is the Genres List
+
+            Maintained by: Jake Dias <genres@imdb.com>
+
+-----------------------------------------------------------------------------
+
+1: Index
+========
+
+   #  Paragraph
+   -  ----------------
+   1: Index
+   2: Disclaimer
+   3: Facts & Figures
+   4: The Genres
+   5: Submission Rules
+   6: Other Lists
+   7: Copying Policy: Internet Movie Database (IMDb) 
+   8: The Genres List
+
+
+2: Disclaimer
+=============
+
+  This list is not what I call good reading material.  It is maintained so
+  you can search The Internet Movie Database for titles that fit certain
+  categories.  If a movie is incorrectly listed here, please spare a 
+  few minutes to update it.
+
+
+3: Facts & Figures
+==================
+
+There are currently 1316835 titles with genres.
+There are currently 2376253 genres.dbs main genres entries.
+
+Breakdown of the main genres and the number of times they appear :
+
+Short    	 591679
+Drama    	 372257
+Comedy    	 271517
+Documentary    	 237711
+Adult    	 76921
+Action    	 72662
+Thriller    	 72467
+Romance    	 72330
+Animation    	 59018
+Family    	 57419
+Horror    	 55635
+Music    	 53086
+Crime    	 50694
+Adventure    	 44598
+Fantasy    	 40234
+Sci-Fi    	 36580
+Mystery    	 33949
+Biography    	 28779
+History    	 24912
+Sport    	 23709
+Musical    	 19213
+War    	 17210
+Reality-TV    	 15777
+Western    	 15608
+News    	 14605
+Talk-Show    	 11365
+Game-Show    	 5582
+Film-Noir    	 730
+Sex    	 1
+Lifestyle    	 1
+Hardcore    	 1
+Experimental    	 1
+Erotica    	 1
+Commercial    	 1
+
+4: The Genres
+=============
+
+   The genres list exists for the sole purpose of increasing the
+   searchability of The Internet Movie Database.
+
+   Genres are the common categories in which we can classify movies,
+   there aren't that many of them.
+
+   The name and number of Genres are subject to change over time.
+
+   The Genres:
+
+        Action          Adventure       Adult 		Animation
+	Comedy		Crime		Documentary	Drama
+	Fantasy		Family		Film-Noir	Horror
+	Musical		Mystery		Romance		Sci-Fi
+	Short		Thriller	War		Western
+
+   No white space is allowed.  ie "Film Noir" is wrong; its "Film-Noir"
+   They start with an uppercase letter.
+
+
+5: Submission Rules
+===================
+
+   How To Add Genres 
+   -----------------
+
+   Send email to   adds@imdb.com   with the subject "ADD".  Above the
+   data you write the word "GENRE" on a line by itself.  "GENRES" also works.
+
+   Under that you write the titles and genres like this:
+
+      <title>|<genre>
+
+   When there are more genres for a movie, simply add them on
+   multiple lines under each other, like this:
+
+      <title1>|<genre1>
+      <title1>|<genre2>
+      <title1>|<genre3>
+
+   When you do it that way, the most important genres should come on top,
+   and the least important genres on the bottom.  The order should
+   represent how valid the genres are.
+
+   Example:
+
+      To: adds@imdb.com
+      Subject: ADD
+
+      GENRES
+      Saving Private Ryan (1998)|Drama
+      Saving Private Ryan (1998)|War
+      Speed (1994)|Action
+      Speed (1994)|Thriller
+      END
+
+   Some examples on genres you shouldn't add:
+
+        Incorrect genres                   Correct genres
+        ----------------                   --------------
+        Science Fiction                    Sci-Fi
+
+        Short Documentary                  Documentary
+                                         + Short
+
+        Action, Thriller                   Action
+                                         + Thriller
+
+        COMEDY                             Comedy
+
+   Also bear in mind that a movie is not necessarily a "Comedy" just
+   because there are a few quick remarks or funny jokes in it.  It happens
+   too often that movies are registered with incorrect genres.  It's not
+   a disaster, but it is annoying for the person renting "Schindler's List"
+   to watch a good "Horror" movie.
+
+   If a film contains moments, or aspects of a genre, do NOT put it 
+   as a main genre.  Instead put the "aspect" as a Keyword separately.
+   ie "Ghostbusters (1984)|horror".  Keywords is a separate list.
+
+   GUIDE TO CORRECT GENRES
+   -----------------------
+
+   Sometimes genres that don't fit a movie are added, and they should be
+   removed as soon as possible.
+
+   To remove a genre from a movie, just put a "!" in front of the line,
+   like this (to remove the genre "Horror" from "Schindlers' List":
+
+      GENRES
+      !Schindler's List (1993)|Horror
+      END
+
+   If the genres in a movie are in a crazy order you can re-order them
+   by deleting them first and then adding them in the "correct" order.
+
+
+6: Other Lists
+==============
+
+  
+The Internet Movie Database consists of the following lists:               
+             
+ List                 | Maintained by                             | Updated
+ ---------------------|-------------------------------------------|----------
+ Actors               | Giancarlo Cairella http://imdb.com/contact| 24-06-05
+ Actresses            | Giancarlo Cairella http://imdb.com/contact| 24-06-05
+ Alternative Names    | Duncan Smith http://imdb.com/contact/     | 24-06-05
+ Alternative Titles   | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Alternative Versions | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Biographies          | Geoff Leonard http://imdb.com/contact/    | 24-06-05
+ Business             | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Cast Completion      | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Certificates         | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Cinematographers     | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Color Information    | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Composers            | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Costume Designers    | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Countries            | Peter Simeon http://imdb.com/contact/     | 17-06-05
+ Crazy Credits        | Mark Bailey http://imdb.com/contact/      | 17-06-05
+ Crew Completion      | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Directors            | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Distributors         | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Editors              | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Genres               | Jake Dias http://imdb.com/contact/        | 24-06-05
+ Goofs                | Col Needham http://imdb.com/contact/      | 24-06-05
+ Keywords             | Jake Dias http://imdb.com/contact/        | 24-06-05
+ Languages            | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Laser Discs          | Peter Simeon http://imdb.com/contact/     | 07-21/00
+ Literature           | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Locations            | Mark Bailey http://imdb.com/contact/      | 17-06-05
+ MPAA Ratings Reasons | Jon Reeves http://imdb.com/contact/       | 17-06-05
+ Misc. Companies      | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Misc. Filmography    | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Movie Links          | Ron Higgins http://imdb.com/contact/      | 24-06-05
+ Movies               | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Plot Summaries       | Colin Tinto http://imdb.com/contact/      | 24-06-05
+ Producers            | Andre Bernhardt http://imdb.com/contact/  | 17-06-05
+ Production Companies | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Production Designers | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Quotes               | Col Needham http://imdb.com/contact/	  | 24-06-05
+ Ratings              | IMDb Helpdesk http://imdb.com/contact/    | 24-06-05
+ Release Dates        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Running Times        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ SFX Companies        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Sound Mix            | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Soundtracks          | Ron Higgins http://imdb.com/contact/      | 24-06-05
+ Tag Lines            | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Technical Info       | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Trivia               | Tim Norris http://imdb.com/contact/	  | 24-06-05
+ Writers              | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ ----------------------------------------------------------------------------
+  								    dd/mm/yy
+  
+SEARCHING THE DATABASE
+======================
+
+The movie database frequently asked questions list contains more information
+on the whole movie database project. For a copy send an e-mail message with
+the subject "HELP FAQ" to <mail-server@imdb.com>. Here is a summary of the
+ways to access the database:
+
+(1) WWW interface
+
+    The Internet Movie Database is available over the WWW. The following sites
+    are owned and operated by or for the IMDb:
+
+        http://us.imdb.com/                                 [USA]
+        http://uk.imdb.com/                                 [UK]
+
+    News and pointers to all IMDb sites are available at IMDb HQ:
+
+        http://www.imdb.com/
+
+(2) e-mail interface
+  
+    For details send a message with the subject HELP to <mail-server@imdb.com>
+
+(3) local installation (Unix/Amiga)
+
+    The movie database package enables you to install the data locally and
+    provides a variety of search tools. It is available via anonymous FTP:
+
+ uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/moviedb-3.4a.tar.gz
+
+ ftp.funet.fi  in  /pub/culture/tv+film/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.fu-berlin.de  in  /pub/misc/movies/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.sunet.se  in  /pub/tv+movies/imdb/tools/moviedb-3.4a.tar.gz
+
+    see the README file in the same directories for more information. The 
+    Amiga version is in the file imdb3_5_Amiga.lha
+
+(4) local installation (OS/2)
+
+    The Alternative Movie Database package provides a graphical and text
+    based interface for OS/2:
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/os2/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/os2/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/os2/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/os2/
+
+(5) local installation (Windows 9x/Windows NT)
+
+    The Alternative Movie Database package is also available as a text only
+    interface for Win-32 systems (9x/NT):
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/w32/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/w32/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/w32/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/w32/
+
+
+7: Copying Policy: Internet Movie Database (IMDb)
+=================================================
+
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database  Ltd (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time. 
+       
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law. 
+       
+    All information in this file is Copyright 1993-2002 Internet Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved. 
+
+    For further information contact <licensing@imdb.com>
+       
+         -------------------------------------------------------
+   
+    All data and software released by Internet Movie Database  Ltd  is
+    freely  available  to  anyone  within certain limitations. You are
+    encouraged to quote subsets of the database  in  USENET  articles,
+    movie  related  FAQs,  magazine  articles etc. We do ask, however,
+    that you make reference to the source of the data  and  provide  a
+    pointer to the database for the benefit of the reader. 
+       
+    Permission is granted  by  the  copyright  holder  to  allow  free
+    distribution  of  this  file  and  any  other part of the Internet
+    Movie  Database  in  an  ELECTRONIC  FORM  ONLY,   providing   the
+    following conditions are met: 
+       
+         1. NO FEE OF ANY KIND, however indirect, will be  charged
+            for  its  distribution.  If  this file is being stored
+            for  later  distribution  to  anyone   that   can   be
+            construed   as   a   customer   of  yourself  or  your
+            organisation YOU MUST contact Internet Movie  Database
+            Ltd for permission. 
+            
+         2. Each  of  the  database  files  may   be   distributed
+            individually  but  only  in an unaltered form. All the
+            header and trailer information, including this  notice
+            and  the  details  on how to access the database, must
+            remain intact. 
+            
+         3. Specifically the files may NOT be  used  to  construct
+            any  kind  of  on-line database (except for individual
+            personal use). Clearance for  ALL  such  on-line  data
+            resources   must  be  requested  from  Internet  Movie
+            Database Ltd 
+            
+         4. In addition, copies of  the  Internet  Movie  Database
+            frequently  asked  questions  list and additions guide
+            must be made available in the same area / by the  same
+            method as the other database files. 
+
+         5. CD-ROM  distribution  is  prohibited  without  written
+            permission from the Internet Movie Database Ltd 
+            
+    Distribution by e-mail, BBS and  Internet  systems  is  positively
+    encouraged within these limitations. 
+       
+    The files and software which make up the  movie  database  may  be
+    uploaded  to  commercial  BBS  systems  providing  that  the above
+    conditions are met and no *additional* fees are applied above  the
+    standard connect time or downloading charges. 
+
+    For further information contact <licensing@imdb.com>
+
+
+8: THE GENRES LIST
+==================
+
+"!Next?" (1994)						Documentary
+"#1 Single" (2006)					Reality-TV
+"#15SecondScare" (2015)					Horror
+"#15SecondScare" (2015)					Short
+"#15SecondScare" (2015)					Thriller
+"#1MinuteNightmare" (2014)				Horror
+"#2WheelzNHeelz" (2017)					Reality-TV
+"#30Nods Trailer" (2016)				Drama
+"#30Nods" (2016)					Drama
+"#7DaysLater" (2013)					Comedy
+"#ATown" (2014)						Comedy
+"#ActorsLife" (2016)					Talk-Show
+"#Actress" (2014)					Comedy
+"#Adulthood" (????)					Comedy
+"#Adulting" (2016/I)					Comedy
+"#Adulting" (2016/II)					Comedy
+"#AwkwardMornings" (2014)				Comedy
+"#Bandcamp" (2014)					Musical
+"#Besties" (2014)					Comedy
+"#Bikerlive" (2014)					Reality-TV
+"#BlackLove" (2015)					Reality-TV
+"#Blessed" (2015)					Comedy
+"#Boss Moms" (2016)					Reality-TV
+"#ByMySide" (2012)					Drama
+"#Cake" (2015)						Comedy
+"#CandidlyNicole" (2013)				Reality-TV
+"#Cocinando" (2015)					Comedy
+"#Currently" (2016)					Comedy
+"#Cybriety" (2015)					Comedy
+"#DaddyLeaks" (2016)					Comedy
+"#Elmira" (2014)					Comedy
+"#FabiosSofa" (2014)					Talk-Show
+"#Falltown" (2016)					Comedy
+"#Falltown" (2016)					Horror
+"#Final60" (2016)					Crime
+"#Follow" (2011)					Mystery
+"#FridayNightLikes" (2015)				Talk-Show
+"#GirlProblems" (2015) {{SUSPENDED}}			Comedy
+"#Hashtag: The Series" (2013)				Comedy
+"#HighlandPark" (2016)					Comedy
+"#HoodDocumentary" (2016)				Comedy
+"#InstaFamous: How to Become Famous on Instagram" (2013)	Comedy
+"#JesusProblems" (2015)					Comedy
+"#JustDating" (2014)					Comedy
+"#Kansloos" (2012)					Comedy
+"#KateConwayisaJerk" (2015)				Comedy
+"#KillTorrey" (2016)					Comedy
+"#LAProblems" (2013)					Comedy
+"#LakeShow" (2012)					News
+"#LakeShow" (2012)					Sport
+"#LawstinWoods" (2013)					Sci-Fi
+"#LdnOnt" (2011)					Talk-Show
+"#Like" (2016)						Comedy
+"#LoveBytes" (2015)					Drama
+"#LoveBytes" (2015)					Romance
+"#LoveMonkeyChocolate" (2014)				Romance
+"#LoveMonkeyChocolateFlowers" (2014)			Romance
+"#Millennials" (2015)					Comedy
+"#MommasGotBars" (2015)					Comedy
+"#MonologueWars" (2014)					Drama
+"#MyCurrentSituation: Atlanta" (2016)			Reality-TV
+"#NOBASICS® Style" (2016)				Reality-TV
+"#NerdNoise" (2012)					News
+"#News" (2014)						Comedy
+"#News" (2014)						News
+"#NextGreatMascot" (2015)				Documentary
+"#Nightstrife" (2014)					Comedy
+"#NoFilter with Tarah and Charlotte" (2016)		Comedy
+"#NoFilter" (2016)					Talk-Show
+"#Nofilter" (2014) {{SUSPENDED}}			Comedy
+"#NotMadMonday" (2015)					Comedy
+"#Nwn" (2013)						Comedy
+"#OscarTheOuch" (2013)					Family
+"#PrettyPeopleProblems" (2013)				Comedy
+"#PréTVB" (2014)					Talk-Show
+"#QuieroEseLook!" (2013)				News
+"#RIPSarahBarker" (2016)				Horror
+"#ReasonsWhyImSingle" (2014)				Comedy
+"#RedFlag" (2015)					Reality-TV
+"#Redemption" (2014)					Comedy
+"#Redemption" (2014)					Drama
+"#Redemption" (2014)					Romance
+"#Redemption" (2014)					Short
+"#Rekt" (2014)						Comedy
+"#Russ2013" (2013)					Reality-TV
+"#SayWhat?!" (2013)					Comedy
+"#ScenesFromRussia" (2013)				Drama
+"#Shelfie with Dan Hong" (2016)				Documentary
+"#SingleBecause" (2017)					Comedy
+"#Singles" (2014)					Comedy
+"#SketchPack" (2015)					Comedy
+"#SmurTv" (2016)					Comedy
+"#StarShow!" (2015)					Comedy
+"#Sti" (2016)						Comedy
+"#Sti" (2016)						Drama
+"#TanCosmo" (2014)					Talk-Show
+"#Teens" (2014)						Comedy
+"#Teens" (2014)						Short
+"#TheAssignment" (2013)					Comedy
+"#TheWestbrooks" (2015)					Family
+"#TheWillKeenanShow" (2013)				Biography
+"#ThisIsCollege" (2016)					Comedy
+"#Tris" (2012)						Comedy
+"#Troublemakers" (2013)					Comedy
+"#Unboxed" (2016)					Biography
+"#VanLifeAttila" (2016)					Adventure
+"#VanLifeAttila" (2016)					Biography
+"#VanLifeAttila" (2016)					Comedy
+"#VanLifeAttila" (2016)					Drama
+"#VanLifeAttila" (2016)					History
+"#Viral" (2016)						Comedy
+"#WineLine" (2016)					Comedy
+"#WomanProblems" (2014)					Comedy
+"#Yaprava" (2013)					Talk-Show
+"#Youngadult" (2017)					Comedy
+"#Youngadult" (2017)					Drama
+"#atherapefti" (2014)					Comedy
+"#atherapefti" (2014)					Romance
+"#atherapefti" (2014)					Short
+"#cliche" (2015)					Comedy
+"#cliche" (2015)					Romance
+"#differentnotless" (2017)				Drama
+"#iGOTSHAPES" (2012)					Music
+"#killerpost" (2016)					Crime
+"#lovemilla" (2013)					Comedy
+"#mykpop" (2013)					Music
+"#mykpop" (2013)					Reality-TV
+"#nitTWITS" (2011)					Comedy
+"#rampage4real" (2013)					Reality-TV
+"#somos" (2017)						Documentary
+"#somos" (2017)						Reality-TV
+"#tlir" (2013)						Comedy
+"#versionfrançaise" (2015)				Talk-Show
+"#waszurwahl" (2013)					Talk-Show
+"$#*! My Dad Says" (2010)				Comedy
+"$1,000,000 Chance of a Lifetime" (1986)		Game-Show
+"$100 Makeover" (2010)					Reality-TV
+"$100 Pet Challenge" (2015)				Comedy
+"$100 Taxi Ride" (2001)					Documentary
+"$100,000 Name That Tune" (1984)			Game-Show
+"$100,000 Name That Tune" (1984)			Music
+"$2 Bill" (2002)					Documentary
+"$2 Bill" (2002)					Music
+"$2 Bill" (2002) {Kanye West}				Music
+"$24 in 24" (2012)					Reality-TV
+"$25 Million Dollar Hoax" (2004)			Reality-TV
+"$40 a Day" (2002)					Documentary
+"$5 Cover" (2009)					Drama
+"$5 Cover: Seattle" (2009)				Drama
+"$5,000 Video" (2013)					Comedy
+"$5,000 Video" (2013)					Music
+"$5,000 Video" (2013)					Short
+"$50,000 Letterbox" (1980)				Game-Show
+"$9.99 with Dave Evans" (2014)				Reality-TV
+"$9.99" (2003)						Adventure
+"$tripped" (2015)					Comedy
+"$tripped" (2015)					Romance
+"$weepstake$" (1979)					Drama
+"&@" (2010)						Sci-Fi
+"' Horse Trials '" (2011)				Sport
+"'80s Videos: A to Z" (2009)				Music
+"'Alibi' na dvoikh" (2011)				Crime
+"'Allo 'Allo!" (1982)					Comedy
+"'Allo 'Allo!" (1982)					War
+"'Conversations with My Wife'" (2010)			Comedy
+"'Da Kink in My Hair" (2007)				Comedy
+"'Da Kink in My Hair" (2007)				Drama
+"'Heisse' am Samstag" (1961)				Comedy
+"'Kedr' pronzaet nebo" (2011)				Drama
+"'More strasti'" (2000)					Romance
+"'Ons Sterrenkookboek'" (2007)				Documentary
+"'Orrible" (2001)					Comedy
+"'Orrible" (2001)					Crime
+"'Orrible" (2001)					Drama
+"'Ruhr-Revier '65 - Portrait einer Industrielandschaft'" (1965)	Documentary
+"'S ann an Ile" (2009)					Documentary
+"'Sang linggo nAPO sila" (1995)				Game-Show
+"'Sang linggo nAPO sila" (1995)				Musical
+"'T Wilhelmina" (1975)					Comedy
+"'The Making Of...'" (2014)				Comedy
+"'The Prince' by Niccolò Machiavelli" (2012) {{SUSPENDED}}	Animation
+"'Til Death Do Us Part" (2006)				Crime
+"'Til Death Do Us Part" (2006)				Drama
+"'Til Death Do Us Part" (2006)				Fantasy
+"'Til Death Do Us Part" (2006)				Romance
+"'Til Death Do Us Part" (2006)				Thriller
+"'Til Death" (2006)					Comedy
+"'Til Death" (2006)					Romance
+"'Tween You & Me" (2014)				Comedy
+"'Untold" (2004)					Documentary
+"'Wag kukurap" (2004)					Horror
+"'Wag kukurap" (2004)					Short
+"'Way Out" (1961)					Drama
+"'Way Out" (1961)					Horror
+"'Way Out" (1961)					Sci-Fi
+"'n Shrink" (2009)					Comedy
+"'t Is maar TV" (1999)					Comedy
+"'t Is maar TV" (1999)					Game-Show
+"'t Is maar een spel" (2002)				Comedy
+"'t Is maar een spel" (2002)				Game-Show
+"'t Schaep Met De 5 Pooten" (1969)			Comedy
+"'t Zal je gebeuren..." (1998)				Drama
+"'t Zonnetje in huis" (1993)				Comedy
+"'t is hier Fantasties" (2014)				Reality-TV
+"(Des)encontros" (2014)					Comedy
+"(Des)encontros" (2014)					Romance
+"(Mis)Adventures in Hollywood" (2015)			Comedy
+"(Mis)adventure" (2014)					Comedy
+"(My) Immortal: The Web Series" (2013)			Comedy
+"(My) Immortal: The Web Series" (2013)			Fantasy
+"(My) Immortal: The Web Series" (2013)			Romance
+"(Not) Brothers" (2015)					Comedy
+"(Not) Brothers" (2015)					Drama
+"(Not) Superficial" (2017)				Comedy
+"(Not) Superficial" (2017)				Drama
+"(Not) Superficial" (2017)				Romance
+"(Re)volt" (2013)					Drama
+"(Re)volt" (2013)					Short
+"(S)truth" (2003)					Drama
+"(Tnpesa)" (2013)					Comedy
+"(fdp)" (2012)						Drama
+"(fdp)" (2012)						Sport
+"(gli) Imperatori" (2014)				Comedy
+"(gli) Imperatori" (2014)				Short
+"*Loosely Exactly Nicole" (2016)			Comedy
+"+ Clair" (2001)					Documentary
+"+ Emprendedores mi+d" (2010)				Documentary
+"+ Investigadores" (2008)				Documentary
+"+ de cinéma" (2001)					Documentary
+"+ de cinéma" (2001)					News
+"+ de cinéma" (2001)					Short
+"+27: Social Innovators of South Africa" (2014)		Documentary
+"+Utilities" (2012)					Comedy
+"... With Micah Luke and Robert Kitchen" (2012)		Comedy
+"... ins Grüne! Das Stadt-Land-Lust-Magazin" (2010)	Documentary
+"... und basta!" (2006)					Comedy
+"... und basta!" (2006)					Music
+"... und die Tuba bläst der Huber" (1981)		Comedy
+"...18 - 20 nur nicht passen" (1965)			Game-Show
+"...18 - 20 nur nicht passen" (1965)			Music
+"...@ Nelson's" (2013)					Talk-Show
+"...Amb Manel Fuentes" (2004)				Talk-Show
+"...Erbin sein - dagegen sehr" (1985)			Comedy
+"...Ystera, irthan oi melisses" (2000)			Drama
+"...bitte mit Sahner" (2007)				Talk-Show
+"...e la vita continua" (1984)				Comedy
+"...e le stelle stanno a guardare" (1971)		Drama
+"...ganz persönlich" (1974)				Talk-Show
+"...mal ehrlich" (1993)					Talk-Show
+"...og ikke nok med det" (1995)				Talk-Show
+"...und im Keller gärt es" (1995)			Comedy
+"..1..2..3 rul!" (2000)					Documentary
+".Cat" (2014)						Talk-Show
+".hack//Roots" (2006)					Adventure
+".hack//Roots" (2006)					Animation
+".hack//Roots" (2006)					Fantasy
+".hack//Roots" (2006)					Sci-Fi
+".hack//SIGN" (2002)					Action
+".hack//SIGN" (2002)					Adventure
+".hack//SIGN" (2002)					Animation
+".hack//SIGN" (2002)					Drama
+".hack//SIGN" (2002)					Fantasy
+".hack//SIGN" (2002)					Mystery
+".hack//SIGN" (2002)					Sci-Fi
+".hack//SIGN" (2002)					Thriller
+".hack//Tasogare no udewa densetsu" (2003)		Action
+".hack//Tasogare no udewa densetsu" (2003)		Adventure
+".hack//Tasogare no udewa densetsu" (2003)		Animation
+".hack//Tasogare no udewa densetsu" (2003)		Comedy
+".hack//Tasogare no udewa densetsu" (2003)		Fantasy
+".hack//Tasogare no udewa densetsu" (2003)		Sci-Fi
+"/Comedy" (2010)					Comedy
+"/Drive on NBCSN" (2014)				Reality-TV
+"0 Shieuigeunyuh" (2015)				Romance
+"003 y medio" (1979)					Family
+"007: Gourmet Food" (2016)				Comedy
+"009-1" (2006)						Action
+"009-1" (2006)						Animation
+"009-1" (2006)						Crime
+"009-1" (2006)						Drama
+"009-1" (2006)						Sci-Fi
+"009-1" (2006)						Thriller
+"00Angels" (2014)					Fantasy
+"01-For London" (1987)					Talk-Show
+"0137" (1991)						Talk-Show
+"045" (2014)						Drama
+"0511 Sondersendung zu Theaterformen" (2007)		Documentary
+"0511 TV Lokal" (2007)					Documentary
+"0511 TV Lokal" (2007)					Music
+"0511 TV Lokal" (2007)					News
+"07 zglos sie" (1976)					Crime
+"07 zglos sie" (1976)					Mystery
+"07 zglos sie" (1976) {Bilet do Frankfurtu (#4.4)}	Crime
+"07 zglos sie" (1976) {Bilet do Frankfurtu (#4.4)}	Mystery
+"07 zglos sie" (1976) {Morderca dziala noca (#4.3)}	Crime
+"07 zglos sie" (1976) {Morderca dziala noca (#4.3)}	Mystery
+"07-06-16" (2016)					Drama
+"07-06-16" (2016)					Short
+"07-Ghost" (2009)					Action
+"07-Ghost" (2009)					Animation
+"07-Ghost" (2009)					Drama
+"07-Ghost" (2009)					Fantasy
+"077 hizir - Acil servis" (1988)			Drama
+"0800 no llames" (2005)					Comedy
+"092" (2001)						Documentary
+"099 Central" (2002)					Action
+"099 Central" (2002)					Crime
+"099 Central" (2002)					Drama
+"099 Central" (2002)					Romance
+"1 + 1" (2013)						Family
+"1 + ena" (2012)					News
+"1 Contra Todos" (2016)					Drama
+"1 Day with..." (2004)					Reality-TV
+"1 Equipo" (2005)					News
+"1 Erkek 1 Kadin" (2012)				Comedy
+"1 Euro TV" (2005)					Comedy
+"1 Gay 5 Queens" (2013)					Talk-Show
+"1 Girl 5 Gays" (2009)					Talk-Show
+"1 Habit" (2015)					Talk-Show
+"1 Kadin 1 Erkek" (2008)				Comedy
+"1 Leicester Square" (2006)				Talk-Show
+"1 Minute Au Musée - Les arts de l'Islam" (2008)	Animation
+"1 Minute Au Musée - Les arts des peuples du Monde" (2011)	Animation
+"1 Minute Gamer" (2015)					Comedy
+"1 Minute Gamer" (2015)					News
+"1 Minute Gamer" (2015)					Short
+"1 Minute Gamer" (2015)					Talk-Show
+"1 Minute Horror" (2015)				Horror
+"1 Minute Horror" (2015) {The VISITors}			Comedy
+"1 Minute Horror" (2015) {The VISITors}			Horror
+"1 Minute Horror" (2015) {The VISITors}			Short
+"1 Minute Horror" (2015) {The VISITors}			Thriller
+"1 Minute Rewatch" (2015)				Comedy
+"1 Minute Rewatch" (2015)				News
+"1 Minute Rewatch" (2015)				Reality-TV
+"1 Non Blonde" (2010)					Comedy
+"1 chan KNB" (2007)					News
+"1 contra 100" (2006)					Game-Show
+"1 contre 100" (2007)					Game-Show
+"1 contro 100" (2007)					Game-Show
+"1 for 3" (1997)					Comedy
+"1 gegen 100" (2008)					Game-Show
+"1 jaar gratis" (2001)					Game-Show
+"1 miljoen wat?" (2006)					Game-Show
+"1 minas kai kati" (2007)				Drama
+"1 minas kai kati" (2007)				Romance
+"1 nen B gumi Shinpachi Sensei" (1980)			Drama
+"1 pondo no fukuin" (2008)				Comedy
+"1 pondo no fukuin" (2008)				Romance
+"1 pondo no fukuin" (2008)				Sport
+"1 protiv 100" (2008)					Game-Show
+"1 to Remember with Brian Kennedy" (2006)		Music
+"1 voor de verkiezingen" (2012)				Talk-Show
+"1 vs 100" (2007)					Game-Show
+"1 vs. 100" (2006)					Game-Show
+"1 vs. 100" (2010)					Game-Show
+"1% eo-ddeon keot" (2003)				Comedy
+"1% eo-ddeon keot" (2003)				Romance
+"1, 2 oder 3" (1977)					Comedy
+"1, 2 oder 3" (1977)					Family
+"1, 2 oder 3" (1977)					Game-Show
+"1, 2, 3 Go" (1961)					Family
+"1, 2, 3" (1985)					Family
+"1, 2, 3" (1985)					Game-Show
+"1, 2, 3, Out" (1999)					Comedy
+"1, 2, 3, Out" (1999)					Family
+"1,000 Places to See Before You Die" (2007)		Documentary
+"1-0 til Danmark" (2014)				History
+"1-2-3 Istanbul!" (2009)				Adventure
+"1-2-3 Istanbul!" (2009)				Comedy
+"1-2-3 Moskau!" (2008)					Adventure
+"1-2-3-los!" (1967)					Music
+"1-800-Missing" (2003)					Crime
+"1-800-Missing" (2003)					Drama
+"1-800-Missing" (2003)					Mystery
+"1.C" (2012)						Documentary
+"1/4 Mermaid" (2015)					Action
+"1/4 Mermaid" (2015)					Adventure
+"1/4 Mermaid" (2015)					Fantasy
+"10 + 2" (1994)						Animation
+"10 Best Kitchen Projects" (2011)			Reality-TV
+"10 Best Outdoor Projects" (2012)			Reality-TV
+"10 Best Space Saving Solutions" (2012)			Reality-TV
+"10 Count" (2014)					Talk-Show
+"10 Dates from Hell" (2008)				Comedy
+"10 Day Take" (2007)					Reality-TV
+"10 Days to War" (2008)					Drama
+"10 Days to War" (2008)					War
+"10 Dishes" (2014)					Talk-Show
+"10 Films, 1 Box" (2014)				Comedy
+"10 Finnish Architects: An Outsider's View" (2003)	Documentary
+"10 Grand in Your Hand" (2009)				Reality-TV
+"10 Great Reasons" (2008)				Comedy
+"10 Great Reasons" (2008)				Music
+"10 Items or Less" (2006)				Comedy
+"10 Jahre jünger" (2009)				Reality-TV
+"10 Mile Menu" (2010)					Game-Show
+"10 Million Dollar Bigfoot Bounty" (2014)		Game-Show
+"10 Minute Tales" (2009) {Deep & Crisp & Even (#1.1)}	Comedy
+"10 Minute Tales" (2009) {Deep & Crisp & Even (#1.1)}	Short
+"10 Minute Tales" (2009) {Perfect Day (#1.10)}		Drama
+"10 Minute Tales" (2009) {Perfect Day (#1.10)}		Short
+"10 Minute Tales" (2009) {Statuesque (#1.5)}		Romance
+"10 Minute Tales" (2009) {Statuesque (#1.5)}		Short
+"10 O'Clock Live" (2011)				Comedy
+"10 O'Clock Live" (2011)				News
+"10 Parejas 10" (2014)					Reality-TV
+"10 Play" (2002)					Family
+"10 Second Mysteries" (2014)				Comedy
+"10 Second Traumas" (2011)				Comedy
+"10 Seconds of Hell" (2013)				Comedy
+"10 Seconds" (1993)					Game-Show
+"10 Steps to Better Healthcare: A Guide for Chinese-American Seniors" (2010)	News
+"10 Things Every Guy Should Experience" (2004)		Documentary
+"10 Things Every Guy Should Experience" (2004) {2004 Indianapolis 500 (#1.5)}	Documentary
+"10 Things Every Guy Should Experience" (2004) {2004 NBA Finals (#1.6)}	Documentary
+"10 Things Every Guy Should Experience" (2004) {Kentucky Derby (#1.4)}	Documentary
+"10 Things I Hate About You" (2009)			Comedy
+"10 Things I Hate About..." (2012)			Comedy
+"10 Things That Make Me Happy" (2012)			Reality-TV
+"10 Things You Didn't Know About ..." (2002)		Documentary
+"10 Things You Didn't Know About..." (2006)		Documentary
+"10 Things You Didn't Know About..." (2006) {Volcanoes (#1.1)}	Documentary
+"10 Things You Don't Know About" (2012)			Biography
+"10 Things You Don't Know About" (2012)			Documentary
+"10 Things You Don't Know About" (2012)			History
+"10 Things You Must Know" (2006)			Reality-TV
+"10 Things" (2016)					Comedy
+"10 Worst Things" (2015)				Comedy
+"10 Years Younger in 10 Days" (2009)			Reality-TV
+"10 Years Younger" (2004/I)				Documentary
+"10 Years Younger" (2004/II)				Reality-TV
+"10 Years Younger" (2005)				Documentary
+"10 Years of Monkey Business" (2007)			Documentary
+"10 cites" (2008)					Documentary
+"10 druzey Krolika" (2014)				Animation
+"10 hobby-minutter" (1952)				Family
+"10 jaar voor New Kids: de Pulpshow" (2015)		Comedy
+"10 kirjaa jotka muuttivat maailmaa" (2007)		Talk-Show
+"10 kirjaa lapsuudesta" (2008)				Talk-Show
+"10 kirjaa rahasta" (2011)				Talk-Show
+"10 kirjaa rakkaudesta" (2009)				Romance
+"10 kirjaa rakkaudesta" (2009)				Talk-Show
+"10 kirjaa vallasta" (2012)				Talk-Show
+"10 me 2" (2002)					Talk-Show
+"10 minuten" (2002)					Documentary
+"10 minuten" (2002)					News
+"10 minuten" (2002)					Sport
+"10 om te zien" (1989)					Game-Show
+"10 om te zien" (1989)					Music
+"10 on Top" (2010)					News
+"10 on Top" (2010)					Talk-Show
+"10 secondes et des poussières" (1997)			Thriller
+"10 sposobov" (2013)					Comedy
+"10 uutta käskyä" (2009)				Talk-Show
+"10 vi ka' li'" (1990)					Comedy
+"10 vor 11" (1988)					Talk-Show
+"10 vor 11" (1988) {Auf des Messers Schneide/Christoph Schlingensief über Real-Theatralik}	Documentary
+"10 vor 11" (1988) {Auf des Messers Schneide/Christoph Schlingensief über Real-Theatralik}	Short
+"10 vor 11" (1988) {Blinde Liebe/Jean-Luc Godard: Meine Mutter hat nur Stummfilme gesehen!}	Short
+"10 vor 11" (1988) {Der Mond ist aufgegangen}		Short
+"10 vor 11" (1988) {In erster Linie bin ich Filmemacher! - Begegnung mit Christoph Schlingensief}	Documentary
+"10 vor 11" (1988) {In erster Linie bin ich Filmemacher! - Begegnung mit Christoph Schlingensief}	Short
+"10 vor 11" (1988) {Mein Idealzuschauer ist jung und weiblich - Christoph Schlingensief zu Besuch bei Helge Schneider}	Documentary
+"10 vor 11" (1988) {Mein Idealzuschauer ist jung und weiblich - Christoph Schlingensief zu Besuch bei Helge Schneider}	Short
+"10" (2009)						Drama
+"10" (2010)						Thriller
+"10" (2015)						Talk-Show
+"10% Qtv" (1995)					News
+"10% Qtv" (1995)					Talk-Show
+"10,000 BC" (2015)					Reality-TV
+"10,000 Days" (2010)					Action
+"10,000 Days" (2010)					Drama
+"10,000 Days" (2010)					Sci-Fi
+"10-07: L'affaire Kafka" (1996)				Drama
+"10-07: L'affaire Zeus" (1995)				Drama
+"10-8: Officers on Duty" (2003)				Crime
+"10-8: Officers on Duty" (2003)				Drama
+"10-nen saki mo kimi ni koishite" (2010)		Drama
+"10.5" (2004)						Action
+"10.5" (2004)						Drama
+"10.5: Apocalypse" (2006)				Drama
+"10.5: Apocalypse" (2006)				Sci-Fi
+"10.5: Apocalypse" (2006)				Thriller
+"100 % ja" (2004)					Talk-Show
+"100 Best Videos Ever" (2007)				Comedy
+"100 Best Videos Ever" (2007)				Music
+"100 Bullets D'Argento" (2012)				Horror
+"100 Calabazas" (2011)					Comedy
+"100 Centre Street" (2001)				Crime
+"100 Centre Street" (2001)				Drama
+"100 Day Bach" (2015)					Reality-TV
+"100 Days of Summer" (2013)				Reality-TV
+"100 Days to Heaven" (2011)				Drama
+"100 Days" (2016)					Thriller
+"100 Deadly Skills" (2015)				Short
+"100 Deeds for Eddie McDowd" (1999)			Family
+"100 Frogs" (2015)					Comedy
+"100 Grados" (1989)					News
+"100 Grados" (1989)					Talk-Show
+"100 Greatest Albums of Rock & Roll" (2000)		History
+"100 Greatest Artists of All Time" (2010)		Music
+"100 Greatest Artists of Hard Rock" (2000)		Documentary
+"100 Greatest Artists of Hard Rock" (2000)		Music
+"100 Greatest Dance Songs of Rock & Roll" (2000)	Documentary
+"100 Greatest Dance Songs of Rock & Roll" (2000)	Music
+"100 Greatest Discoveries" (2004)			Documentary
+"100 Greatest Songs of the 00s" (2011)			Music
+"100 Greatest Songs of the 90s" (2007)			Documentary
+"100 Greatest Songs of the 90s" (2007)			Music
+"100 Greatest Stand-Ups of All Time" (2004)		Comedy
+"100 Greatest TV Characters" (2004)			Documentary
+"100 Hours" (2002)					Game-Show
+"100 Jahre - Der Countdown" (1999)			Documentary
+"100 Jahre - Der Countdown" (1999)			History
+"100 Latinos Dijeron" (2013)				Game-Show
+"100 Man Yen Quiz Hunter" (1981)			Game-Show
+"100 Mile Meals" (2014)					Adventure
+"100 Mile Meals" (2014)					Documentary
+"100 Moments That Changed TV" (2011)			Documentary
+"100 Moments That Rocked TV" (2003)			Documentary
+"100 Monologues" (2014)					Drama
+"100 Monologues" (2014)					Short
+"100 Nen Interview" (2007)				Talk-Show
+"100 Per Cent" (1992)					Comedy
+"100 Proof" (2004)					Reality-TV
+"100 Prozent" (2004)					Biography
+"100 Prozent" (2004)					Documentary
+"100 Questions" (2010)					Comedy
+"100 Questions" (2010)					Romance
+"100 Songs, die die Welt bewegten" (2013)		Documentary
+"100 Songs, die die Welt bewegten" (2013)		Music
+"100 Things to Do Before High School" (2014)		Comedy
+"100 Things to Do Before High School" (2014)		Family
+"100 Winners" (2007)					Game-Show
+"100 Words For" (2011)					Adventure
+"100 Words For" (2011)					Animation
+"100 Words For" (2011)					Comedy
+"100 Words For" (2011)					Drama
+"100 Years of Horror" (1996)				Documentary
+"100 Years of Horror" (1996)				Horror
+"100 Years of Horror" (1996) {100 Years of Horror: Gory Gimmicks (#1.18)}	Documentary
+"100 Years of Horror" (1996) {100 Years of Horror: Gory Gimmicks (#1.18)}	Short
+"100 Years of Horror" (1996) {Aliens (#1.20)}		Documentary
+"100 Years of Horror" (1996) {Aliens (#1.20)}		Short
+"100 Years of Horror" (1996) {Baron Frankenstein (#1.4)}	Documentary
+"100 Years of Horror" (1996) {Baron Frankenstein (#1.4)}	Short
+"100 Years of Horror" (1996) {Bela Lugosi (#1.7)}	Documentary
+"100 Years of Horror" (1996) {Bela Lugosi (#1.7)}	Short
+"100 Years of Horror" (1996) {Blood-Drinking Beings (#1.2)}	Documentary
+"100 Years of Horror" (1996) {Blood-Drinking Beings (#1.2)}	Short
+"100 Years of Horror" (1996) {Boris Karloff (#1.8)}	Documentary
+"100 Years of Horror" (1996) {Boris Karloff (#1.8)}	Short
+"100 Years of Horror" (1996) {Demons (#1.12)}		Documentary
+"100 Years of Horror" (1996) {Demons (#1.12)}		Short
+"100 Years of Horror" (1996) {Dinosaurs (#1.26)}	Documentary
+"100 Years of Horror" (1996) {Dinosaurs (#1.26)}	Short
+"100 Years of Horror" (1996) {Dr. Jekyll and Mr. Hyde (#1.5)}	Documentary
+"100 Years of Horror" (1996) {Dr. Jekyll and Mr. Hyde (#1.5)}	Short
+"100 Years of Horror" (1996) {Dracula and His Disciples (#1.1)}	Documentary
+"100 Years of Horror" (1996) {Dracula and His Disciples (#1.1)}	Short
+"100 Years of Horror" (1996) {Frankenstein's Friends (#1.3)}	Documentary
+"100 Years of Horror" (1996) {Frankenstein's Friends (#1.3)}	Short
+"100 Years of Horror" (1996) {Freaks (#1.14)}		Documentary
+"100 Years of Horror" (1996) {Freaks (#1.14)}		Horror
+"100 Years of Horror" (1996) {Ghosts (#1.9)}		Documentary
+"100 Years of Horror" (1996) {Ghosts (#1.9)}		Short
+"100 Years of Horror" (1996) {Giants (#1.25)}		Documentary
+"100 Years of Horror" (1996) {Giants (#1.25)}		Fantasy
+"100 Years of Horror" (1996) {Giants (#1.25)}		Horror
+"100 Years of Horror" (1996) {Giants (#1.25)}		Sci-Fi
+"100 Years of Horror" (1996) {Girl Ghouls (#1.16)}	Documentary
+"100 Years of Horror" (1996) {Girl Ghouls (#1.16)}	Horror
+"100 Years of Horror" (1996) {Girl Ghouls (#1.16)}	Short
+"100 Years of Horror" (1996) {Mad Doctors (#1.23)}	Documentary
+"100 Years of Horror" (1996) {Mad Doctors (#1.23)}	Short
+"100 Years of Horror" (1996) {Man-Made Monsters (#1.24)}	Documentary
+"100 Years of Horror" (1996) {Man-Made Monsters (#1.24)}	Horror
+"100 Years of Horror" (1996) {Man-Made Monsters (#1.24)}	Sci-Fi
+"100 Years of Horror" (1996) {Man-Made Monsters (#1.24)}	Short
+"100 Years of Horror" (1996) {Maniacs (#1.17)}		Documentary
+"100 Years of Horror" (1996) {Maniacs (#1.17)}		Horror
+"100 Years of Horror" (1996) {Mummies (#1.21)}		Documentary
+"100 Years of Horror" (1996) {Mummies (#1.21)}		Short
+"100 Years of Horror" (1996) {Mutants (#1.13)}		Documentary
+"100 Years of Horror" (1996) {Mutants (#1.13)}		Short
+"100 Years of Horror" (1996) {Phantoms (#1.10)}		Documentary
+"100 Years of Horror" (1996) {Phantoms (#1.10)}		Short
+"100 Years of Horror" (1996) {Scream Queens (#1.15)}	Documentary
+"100 Years of Horror" (1996) {Scream Queens (#1.15)}	Horror
+"100 Years of Horror" (1996) {Scream Queens (#1.15)}	Sci-Fi
+"100 Years of Horror" (1996) {Scream Queens (#1.15)}	Short
+"100 Years of Horror" (1996) {Sorcerers (#1.19)}	Documentary
+"100 Years of Horror" (1996) {Sorcerers (#1.19)}	Horror
+"100 Years of Horror" (1996) {Sorcerers (#1.19)}	Sci-Fi
+"100 Years of Horror" (1996) {Werewolves (#1.6)}	Documentary
+"100 Years of Horror" (1996) {Werewolves (#1.6)}	Short
+"100 Years of Horror" (1996) {Witches (#1.11)}		Documentary
+"100 Years of Horror" (1996) {Witches (#1.11)}		Short
+"100 Years of Horror" (1996) {Zombies (#1.22)}		Documentary
+"100 Years of Horror" (1996) {Zombies (#1.22)}		Horror
+"100 Years of Horror" (1996) {Zombies (#1.22)}		Short
+"100 Years of Terror" (2000)				Documentary
+"100 ans de cinéma" (1995)				Documentary
+"100 byô Hakase Academy" (2013)				Game-Show
+"100 byô Hakase Academy" (2013)				Talk-Show
+"100 deutsche Jahre" (1998)				Documentary
+"100 höjdare" (2004)					Comedy
+"100 höjdare" (2004)					Talk-Show
+"100 mexicanos dijeron" (2001)				Game-Show
+"100 mexicanos dijieron" (2009)				Game-Show
+"100 minutes pour convaincre" (2002)			Documentary
+"100 oku no otoko" (1995)				Drama
+"100 års barndom" (1997)				Documentary
+"100 års barndom" (1997)				History
+"100 års indvandring" (2003)				Documentary
+"100% Azull" (2007)					News
+"100% De Dhana Dhan" (2009)				Sport
