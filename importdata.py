@@ -26,7 +26,7 @@ datapath = os.getcwd() + "/data/"
 
 ### UPDATE DATABASE NAME BELOW
 os.chdir(dbpath)
-conn = sqlite3.connect('movies_test.sqlite')
+conn = sqlite3.connect('movies.sqlite')
 conn.text_factory = str
 cur = conn.cursor()
 
