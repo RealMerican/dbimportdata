@@ -1,3 +1,7 @@
+# big data files and database
+/db
+/data
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
