@@ -1,0 +1,2 @@
+import os
+os.system('touch data/actors.list data/actors_short.list data/actresses.list data/actresses_short.list data/directors.list data/directors_short.list data/genres.list data/genres_short.list data/mpaa_short.list data/mpaa-ratings-reasons.list data/plot.list data/plot_short.list data/producers.list data/producers_short.list data/ratings.list data/ratings_short.list data/shortlist.list data/writers.list data/writers_short.list')
